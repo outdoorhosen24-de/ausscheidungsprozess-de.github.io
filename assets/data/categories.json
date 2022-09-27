@@ -1,107 +1,471 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "wc-anschlüsse",
+        "name": "WC-Anschlüsse",
+        "slug": "wc-anschlusse",
+        "productCategory": "WC-Anschlüsse",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "spülrohrdichtungen",
+        "name": "Spülrohrdichtungen",
+        "slug": "spulrohrdichtungen",
+        "productCategory": "Spülrohrdichtungen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "spülbögen",
+        "name": "Spülbögen",
+        "slug": "spulbogen",
+        "productCategory": "Spülbögen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "wc-anschlussrohre",
+        "name": "WC-Anschlussrohre",
+        "slug": "wc-anschlussrohre",
+        "productCategory": "WC-Anschlussrohre",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "spülrohre",
+        "name": "Spülrohre",
+        "slug": "spulrohre",
+        "productCategory": "Spülrohre",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "wc-anschlussgarnituren",
+        "name": "WC-Anschlussgarnituren",
+        "slug": "wc-anschlussgarnituren",
+        "productCategory": "WC-Anschlussgarnituren",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "wc-anschlussbögen",
+        "name": "WC-Anschlussbögen",
+        "slug": "wc-anschlussbogen",
+        "productCategory": "WC-Anschlussbögen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "druckspühlrohre",
+        "name": "Druckspühlrohre",
+        "slug": "druckspuhlrohre",
+        "productCategory": "Druckspühlrohre",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "wc-anschlussstutzen",
+        "name": "WC-Anschlussstutzen",
+        "slug": "wc-anschlussstutzen",
+        "productCategory": "WC-Anschlussstutzen",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "spülrohrverbinder",
+        "name": "Spülrohrverbinder",
+        "slug": "spulrohrverbinder",
+        "productCategory": "Spülrohrverbinder",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "spülkästen",
+        "name": "Spülkästen",
+        "slug": "spulkasten",
+        "productCategory": "Spülkästen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "aufputzspülkästen",
+        "name": "Aufputzspülkästen",
+        "slug": "aufputzspulkasten",
+        "productCategory": "Aufputzspülkästen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "drückerplatten",
+        "name": "Drückerplatten",
+        "slug": "druckerplatten",
+        "productCategory": "Drückerplatten",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "wc-drückerplatten",
+        "name": "WC-Drückerplatten",
+        "slug": "wc-druckerplatten",
+        "productCategory": "WC-Drückerplatten",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "vorwandelemente",
+        "name": "Vorwandelemente",
+        "slug": "vorwandelemente",
+        "productCategory": "Vorwandelemente",
+        "subCategories": []
+    },
+    {
+        "key": "nassbauelemente für wc´s",
+        "name": "Nassbauelemente für WC´s",
+        "slug": "nassbauelemente-fur-wcs",
+        "productCategory": "Nassbauelemente für WC´s",
+        "subCategories": []
+    },
+    {
+        "key": "trockenbauelemente für wc´s",
+        "name": "Trockenbauelemente für WC´s",
+        "slug": "trockenbauelemente-fur-wcs",
+        "productCategory": "Trockenbauelemente für WC´s",
+        "subCategories": []
+    },
+    {
+        "key": "ersatzteile für unterputzspülkästen",
+        "name": "Ersatzteile für Unterputzspülkästen",
+        "slug": "ersatzteile-fur-unterputzspulkasten",
+        "productCategory": "Ersatzteile für Unterputzspülkästen",
+        "subCategories": []
+    },
+    {
+        "key": "ventile",
+        "name": "Ventile",
+        "slug": "ventile",
+        "productCategory": "Ventile",
+        "subCategories": []
+    },
+    {
+        "key": "eckventile",
+        "name": "Eckventile",
+        "slug": "eckventile",
+        "productCategory": "Eckventile",
+        "subCategories": []
+    },
+    {
+        "key": "ersatzteile für aufputzspülkästen",
+        "name": "Ersatzteile für Aufputzspülkästen",
+        "slug": "ersatzteile-fur-aufputzspulkasten",
+        "productCategory": "Ersatzteile für Aufputzspülkästen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör & ersatzteile",
+        "name": "Zubehör & Ersatzteile",
+        "slug": "zubehor-ersatzteile",
+        "productCategory": "Zubehör & Ersatzteile",
+        "subCategories": []
+    },
+    {
+        "key": "trockenbauelemente für waschbecken",
+        "name": "Trockenbauelemente für Waschbecken",
+        "slug": "trockenbauelemente-fur-waschbecken",
+        "productCategory": "Trockenbauelemente für Waschbecken",
+        "subCategories": []
+    },
+    {
+        "key": "heizungstechnik",
+        "name": "Heizungstechnik",
+        "slug": "heizungstechnik",
+        "productCategory": "Heizungstechnik",
+        "subCategories": []
+    },
+    {
+        "key": "heizkörper",
+        "name": "Heizkörper",
+        "slug": "heizkorper",
+        "productCategory": "Heizkörper",
+        "subCategories": []
+    },
+    {
+        "key": "heizungs-installation",
+        "name": "Heizungs-Installation",
+        "slug": "heizungs-installation",
+        "productCategory": "Heizungs-Installation",
+        "subCategories": []
+    },
+    {
+        "key": "wasserrohre",
+        "name": "Wasserrohre",
+        "slug": "wasserrohre",
+        "productCategory": "Wasserrohre",
+        "subCategories": []
+    },
+    {
+        "key": "verzinkte rohre",
+        "name": "Verzinkte Rohre",
+        "slug": "verzinkte-rohre",
+        "productCategory": "Verzinkte Rohre",
+        "subCategories": []
+    },
+    {
+        "key": "fittings",
+        "name": "Fittings",
+        "slug": "fittings",
+        "productCategory": "Fittings",
+        "subCategories": []
+    },
+    {
+        "key": "temperguss-fittings",
+        "name": "Temperguss-Fittings",
+        "slug": "temperguss-fittings",
+        "productCategory": "Temperguss-Fittings",
+        "subCategories": []
+    },
+    {
+        "key": "ppr-rohre",
+        "name": "PPR-Rohre",
+        "slug": "ppr-rohre",
+        "productCategory": "PPR-Rohre",
+        "subCategories": []
+    },
+    {
+        "key": "anschluss-schläuche",
+        "name": "Anschluss-Schläuche",
+        "slug": "anschluss-schlauche",
+        "productCategory": "Anschluss-Schläuche",
+        "subCategories": []
+    },
+    {
+        "key": "flexschläuche",
+        "name": "Flexschläuche",
+        "slug": "flexschlauche",
+        "productCategory": "Flexschläuche",
+        "subCategories": []
+    },
+    {
+        "key": "wasserzähler",
+        "name": "Wasserzähler",
+        "slug": "wasserzahler",
+        "productCategory": "Wasserzähler",
+        "subCategories": []
+    },
+    {
+        "key": "mehrschichtverbundrohre",
+        "name": "Mehrschichtverbundrohre",
+        "slug": "mehrschichtverbundrohre",
+        "productCategory": "Mehrschichtverbundrohre",
+        "subCategories": []
+    },
+    {
+        "key": "rohr-befestigungstechnik",
+        "name": "Rohr-Befestigungstechnik",
+        "slug": "rohr-befestigungstechnik",
+        "productCategory": "Rohr-Befestigungstechnik",
+        "subCategories": []
+    },
+    {
+        "key": "rohrschellen",
+        "name": "Rohrschellen",
+        "slug": "rohrschellen",
+        "productCategory": "Rohrschellen",
+        "subCategories": []
+    },
+    {
+        "key": "schallschutzrohrschellen",
+        "name": "Schallschutzrohrschellen",
+        "slug": "schallschutzrohrschellen",
+        "productCategory": "Schallschutzrohrschellen",
+        "subCategories": []
+    },
+    {
+        "key": "kupferrohre",
+        "name": "Kupferrohre",
+        "slug": "kupferrohre",
+        "productCategory": "Kupferrohre",
+        "subCategories": []
+    },
+    {
+        "key": "ht-rohre",
+        "name": "HT-Rohre",
+        "slug": "ht-rohre",
+        "productCategory": "HT-Rohre",
+        "subCategories": []
+    },
+    {
+        "key": "ht-reduzierstücke",
+        "name": "HT-Reduzierstücke",
+        "slug": "ht-reduzierstucke",
+        "productCategory": "HT-Reduzierstücke",
+        "subCategories": []
+    },
+    {
+        "key": "ht-bögen",
+        "name": "HT-Bögen",
+        "slug": "ht-bogen",
+        "productCategory": "HT-Bögen",
+        "subCategories": []
+    },
+    {
+        "key": "wasseraufbereitung",
+        "name": "Wasseraufbereitung",
+        "slug": "wasseraufbereitung",
+        "productCategory": "Wasseraufbereitung",
+        "subCategories": []
+    },
+    {
+        "key": "wasserenthärter",
+        "name": "Wasserenthärter",
+        "slug": "wasserentharter",
+        "productCategory": "Wasserenthärter",
+        "subCategories": []
+    },
+    {
+        "key": "ht-abflussrohre",
+        "name": "HT-Abflussrohre",
+        "slug": "ht-abflussrohre",
+        "productCategory": "HT-Abflussrohre",
+        "subCategories": []
+    },
+    {
+        "key": "waschgeräte-ventile",
+        "name": "Waschgeräte-Ventile",
+        "slug": "waschgerate-ventile",
+        "productCategory": "Waschgeräte-Ventile",
+        "subCategories": []
+    },
+    {
+        "key": "verschraubungen",
+        "name": "Verschraubungen",
+        "slug": "verschraubungen",
+        "productCategory": "Verschraubungen",
+        "subCategories": []
+    },
+    {
+        "key": "stockschrauben",
+        "name": "Stockschrauben",
+        "slug": "stockschrauben",
+        "productCategory": "Stockschrauben",
+        "subCategories": []
+    },
+    {
+        "key": "waschmaschinen-schläuche",
+        "name": "Waschmaschinen-Schläuche",
+        "slug": "waschmaschinen-schlauche",
+        "productCategory": "Waschmaschinen-Schläuche",
+        "subCategories": []
+    },
+    {
+        "key": "rosetten",
+        "name": "Rosetten",
+        "slug": "rosetten",
+        "productCategory": "Rosetten",
+        "subCategories": []
+    },
+    {
+        "key": "klapprosetten",
+        "name": "Klapprosetten",
+        "slug": "klapprosetten",
+        "productCategory": "Klapprosetten",
+        "subCategories": []
+    },
+    {
+        "key": "klemmfittings",
+        "name": "Klemmfittings",
+        "slug": "klemmfittings",
+        "productCategory": "Klemmfittings",
+        "subCategories": []
+    },
+    {
+        "key": "gewindefittings",
+        "name": "Gewindefittings",
+        "slug": "gewindefittings",
+        "productCategory": "Gewindefittings",
+        "subCategories": []
+    },
+    {
+        "key": "abdeckrosetten",
+        "name": "Abdeckrosetten",
+        "slug": "abdeckrosetten",
+        "productCategory": "Abdeckrosetten",
+        "subCategories": []
+    },
+    {
+        "key": "ht-einfachabzweige",
+        "name": "HT-Einfachabzweige",
+        "slug": "ht-einfachabzweige",
+        "productCategory": "HT-Einfachabzweige",
+        "subCategories": []
+    },
+    {
+        "key": "auslaufventile",
+        "name": "Auslaufventile",
+        "slug": "auslaufventile",
+        "productCategory": "Auslaufventile",
+        "subCategories": []
+    },
+    {
+        "key": "druckspüler",
+        "name": "Druckspüler",
+        "slug": "druckspuler",
+        "productCategory": "Druckspüler",
+        "subCategories": []
+    },
+    {
+        "key": "wc-druckspüler",
+        "name": "WC-Druckspüler",
+        "slug": "wc-druckspuler",
+        "productCategory": "WC-Druckspüler",
+        "subCategories": []
+    },
+    {
+        "key": "ht-ersatzringe",
+        "name": "HT-Ersatzringe",
+        "slug": "ht-ersatzringe",
+        "productCategory": "HT-Ersatzringe",
+        "subCategories": []
+    },
+    {
+        "key": "ht-muffen",
+        "name": "HT-Muffen",
+        "slug": "ht-muffen",
+        "productCategory": "HT-Muffen",
+        "subCategories": []
+    },
+    {
+        "key": "lötfittings",
+        "name": "Lötfittings",
+        "slug": "lotfittings",
+        "productCategory": "Lötfittings",
+        "subCategories": []
+    },
+    {
+        "key": "ht-muffenstopfen",
+        "name": "HT-Muffenstopfen",
+        "slug": "ht-muffenstopfen",
+        "productCategory": "HT-Muffenstopfen",
+        "subCategories": []
+    },
+    {
+        "key": "panzer-schläuche",
+        "name": "Panzer-Schläuche",
+        "slug": "panzer-schlauche",
+        "productCategory": "Panzer-Schläuche",
+        "subCategories": []
+    },
+    {
+        "key": "scharnierrosetten",
+        "name": "Scharnierrosetten",
+        "slug": "scharnierrosetten",
+        "productCategory": "Scharnierrosetten",
+        "subCategories": []
+    },
+    {
+        "key": "absperrventile",
+        "name": "Absperrventile",
+        "slug": "absperrventile",
+        "productCategory": "Absperrventile",
+        "subCategories": []
+    },
+    {
+        "key": "durchgangsventile",
+        "name": "Durchgangsventile",
+        "slug": "durchgangsventile",
+        "productCategory": "Durchgangsventile",
+        "subCategories": []
+    },
+    {
+        "key": "heizungssysteme",
+        "name": "Heizungssysteme",
+        "slug": "heizungssysteme",
+        "productCategory": "Heizungssysteme",
         "subCategories": []
     }
 ]

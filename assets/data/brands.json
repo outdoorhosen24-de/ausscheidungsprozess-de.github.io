@@ -1,31 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
         "productCategory": "Sonstige",
         "localThumb": "/assets/images/hersteller/sonstige.webp"
-    },
-    {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
     },
     {
         "key": "obi",
@@ -35,52 +14,171 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "geberit",
+        "name": "Geberit",
+        "slug": "geberit",
+        "productCategory": "Geberit",
+        "localThumb": "/assets/images/hersteller/geberit.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "sanitop-wingenroth",
+        "name": "Sanitop-Wingenroth",
+        "slug": "sanitop-wingenroth",
+        "productCategory": "Sanitop-Wingenroth",
+        "localThumb": "/assets/images/hersteller/sanitop-wingenroth.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "grohe",
+        "name": "Grohe",
+        "slug": "grohe",
+        "productCategory": "Grohe",
+        "localThumb": "/assets/images/hersteller/grohe.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "viega",
+        "name": "Viega",
+        "slug": "viega",
+        "productCategory": "Viega",
+        "localThumb": "/assets/images/hersteller/viega.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "villeroy & boch",
+        "name": "Villeroy & Boch",
+        "slug": "villeroy-boch",
+        "productCategory": "Villeroy & Boch",
+        "localThumb": "/assets/images/hersteller/villeroy-boch.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "verosan",
+        "name": "Verosan",
+        "slug": "verosan",
+        "productCategory": "Verosan",
+        "localThumb": "/assets/images/hersteller/verosan.webp"
+    },
+    {
+        "key": "duravit",
+        "name": "Duravit",
+        "slug": "duravit",
+        "productCategory": "Duravit",
+        "localThumb": "/assets/images/hersteller/duravit.webp"
+    },
+    {
+        "key": "hansgrohe",
+        "name": "Hansgrohe",
+        "slug": "hansgrohe",
+        "productCategory": "Hansgrohe",
+        "localThumb": "/assets/images/hersteller/hansgrohe.webp"
+    },
+    {
+        "key": "schulte",
+        "name": "Schulte",
+        "slug": "schulte",
+        "productCategory": "Schulte",
+        "localThumb": "/assets/images/hersteller/schulte.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "sanicomfort",
+        "name": "Sanicomfort",
+        "slug": "sanicomfort",
+        "productCategory": "Sanicomfort",
+        "localThumb": "/assets/images/hersteller/sanicomfort.webp"
+    },
+    {
+        "key": "climatube",
+        "name": "Climatube",
+        "slug": "climatube",
+        "productCategory": "Climatube",
+        "localThumb": "/assets/images/hersteller/climatube.webp"
+    },
+    {
+        "key": "marley",
+        "name": "Marley",
+        "slug": "marley",
+        "productCategory": "Marley",
+        "localThumb": "/assets/images/hersteller/marley.webp"
+    },
+    {
+        "key": "schell",
+        "name": "Schell",
+        "slug": "schell",
+        "productCategory": "Schell",
+        "localThumb": "/assets/images/hersteller/schell.webp"
+    },
+    {
+        "key": "sanotechnik",
+        "name": "Sanotechnik",
+        "slug": "sanotechnik",
+        "productCategory": "Sanotechnik",
+        "localThumb": "/assets/images/hersteller/sanotechnik.webp"
+    },
+    {
+        "key": "vereg",
+        "name": "Vereg",
+        "slug": "vereg",
+        "productCategory": "Vereg",
+        "localThumb": "/assets/images/hersteller/vereg.webp"
+    },
+    {
+        "key": "heimeier",
+        "name": "Heimeier",
+        "slug": "heimeier",
+        "productCategory": "Heimeier",
+        "localThumb": "/assets/images/hersteller/heimeier.webp"
+    },
+    {
+        "key": "honeywell home",
+        "name": "Honeywell Home",
+        "slug": "honeywell-home",
+        "productCategory": "Honeywell Home",
+        "localThumb": "/assets/images/hersteller/honeywell-home.webp"
+    },
+    {
+        "key": "ximax",
+        "name": "Ximax",
+        "slug": "ximax",
+        "productCategory": "Ximax",
+        "localThumb": "/assets/images/hersteller/ximax.webp"
+    },
+    {
+        "key": "aquasu",
+        "name": "AquaSu",
+        "slug": "aquasu",
+        "productCategory": "AquaSu",
+        "localThumb": "/assets/images/hersteller/aquasu.webp"
+    },
+    {
+        "key": "ideal standard",
+        "name": "Ideal Standard",
+        "slug": "ideal-standard",
+        "productCategory": "Ideal Standard",
+        "localThumb": "/assets/images/hersteller/ideal-standard.webp"
+    },
+    {
+        "key": "perobe",
+        "name": "Perobe",
+        "slug": "perobe",
+        "productCategory": "Perobe",
+        "localThumb": "/assets/images/hersteller/perobe.webp"
+    },
+    {
+        "key": "keramag",
+        "name": "Keramag",
+        "slug": "keramag",
+        "productCategory": "Keramag",
+        "localThumb": "/assets/images/hersteller/keramag.webp"
     }
 ]
