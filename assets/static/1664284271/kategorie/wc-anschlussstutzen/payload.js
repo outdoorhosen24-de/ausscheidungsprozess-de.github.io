@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/wc-anschlussstutzen", {data:[{_img:{}}],fetch:{},mutations:void 0});

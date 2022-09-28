@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/sanotechnik", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sanotechnik-badheizkoerper-bari-803-x-500-mm-weiss-mit-mittelanschluss-sanotechnik-7951213-1.jpg":"\u002Fassets\u002Fimages\u002Fsanotechnik-badheizkoerper-bari-803-x-500-mm-weiss-mit-mittelanschluss-sanotechnik-7951213-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/trockenbauelemente-fur-waschbecken", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/nassbauelemente-fur-wcs", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/verosan-unterputzspuelkasten-start-stopp-fuer-wand-wc-verosan-1189760-1.jpg":"\u002Fassets\u002Fimages\u002Fverosan-unterputzspuelkasten-start-stopp-fuer-wand-wc-verosan-1189760-1.webp"}}],fetch:{},mutations:void 0});

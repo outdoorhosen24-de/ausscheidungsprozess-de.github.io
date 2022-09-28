@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/auslaufventile", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/s-auslauf-241-mm-g-3-4-x-150-mm-sonstige-5329925-1.jpg":"\u002Fassets\u002Fimages\u002Fs-auslauf-241-mm-g-3-4-x-150-mm-sonstige-5329925-1.webp"}}],fetch:{},mutations:void 0});

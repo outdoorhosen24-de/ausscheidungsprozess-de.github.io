@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/aquasu", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/aquasu-schlauchanschlusswinkel-jamari-1-2-zoll-chrom-aquasu-9862301-1.jpg":"\u002Fassets\u002Fimages\u002Faquasu-schlauchanschlusswinkel-jamari-1-2-zoll-chrom-aquasu-9862301-1.webp"}}],fetch:{},mutations:void 0});

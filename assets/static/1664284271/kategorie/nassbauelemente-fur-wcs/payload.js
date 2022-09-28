@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/nassbauelemente-fur-wcs", {data:[{_img:{}}],fetch:{},mutations:void 0});

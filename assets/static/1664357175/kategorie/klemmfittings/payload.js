@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/klemmfittings", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/klemm-uebergangskupplung-o-20-mm-x-186-mm-rp-1-2-messing-sonstige-1732544-1.jpg":"\u002Fassets\u002Fimages\u002Fklemm-uebergangskupplung-o-20-mm-x-186-mm-rp-1-2-messing-sonstige-1732544-1.webp"}}],fetch:{},mutations:void 0});
