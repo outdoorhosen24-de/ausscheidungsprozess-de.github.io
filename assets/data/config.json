@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "ausscheidungsprozess.de",
+    "hostname": "https://www.ausscheidungsprozess.de/",
+    "email": "ausscheidungsprozess.desurrealnetworks.io",
+    "organization": "ausscheidungsprozess.de",
+    "logoText": "Ausscheidungsprozess.de",
+    "title": "Sanit\u00e4rinstallation",
+    "subline": "Der Online Shop f\u00fcr Sanit\u00e4rinstallation",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7434384",
+        "7460348",
+        "6312086",
+        "5714167",
+        "5207881",
+        "2214070"
+    ],
+    "winnerProducts": [
+        "3478682",
+        "7436363",
+        "2538064"
+    ],
+    "featuredCategories": [
+        "Flexschl\u00e4uche",
+        "Trockenbauelemente f\u00fcr WC\u00b4s",
+        "Kupferrohre",
+        "Kupferrohre",
+        "Sp\u00fclrohrdichtungen",
+        "Trockenbauelemente f\u00fcr WC\u00b4s"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sanit\u00e4rinstallation",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Sanit\u00e4rinstallation ist ein wichtiger Bestandteil eines jeden Hauses. Die Installation muss sorgf\u00e4ltig geplant werden, damit sie funktioniert. Es gibt viele verschiedene Arten von Sanit\u00e4rinstallationen, die f\u00fcr verschiedene Zwecke verwendet werden. Die h\u00e4ufigsten Arten von Sanit\u00e4rinstallationen sind Abwasser-, Wasser- und Gasinstallationen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Sanit\u00e4rinstallationen - alles f\u00fcr Ihr Badezimmer",
+            "metaDescription": "Die Sanit\u00e4rinstallation ist ein wichtiger Teil der Haustechnik. Wir bieten Ihnen eine gro\u00dfe Auswahl an Produkten und Dienstleistungen rund um das Thema Sanit\u00e4r.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Sanit\u00e4rinstallation",
+                    "text": "Die Sanit\u00e4rinstallation ist ein wesentlicher Bestandteil eines Geb\u00e4udes. Sie dient der Abwasserableitung und der Trinkwasserversorgung. Die Installation muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie ersten Sanit\u00e4ranlagen wurden in den St\u00e4dten errichtet, um das Abwasser der Haushalte von den Stra\u00dfen fernzuhalten. Die Anlagen bestanden aus einem Rohrsystem, das das Abwasser aus den H\u00e4usern ableitete und in ein gemeinsames Abwasserkanalisation f\u00fchrte.\n\nHeutzutage sind die Anforderungen an eine Sanit\u00e4rinstallation weitaus h\u00f6her. Die Installation muss den neuesten hygienischen Standards entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Trinkwasserversorgung ist ebenfalls ein wesentlicher Bestandteil einer Sanit\u00e4rinstallation. Das Trinkwasser muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Installation einer Sanit\u00e4rinstallation ist eine komplexe Aufgabe, die von Fachleuten durchgef\u00fchrt werden muss. Die Planung und Ausf\u00fchrung einer Sanit\u00e4rinstallation muss den jeweiligen lokalen Gegebenheiten angepasst werden."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sanit\u00e4rinstallationen Shop",
+            "metaDescription": "Der Shop f\u00fcr Sanit\u00e4rinstallation bietet alles, was Sie f\u00fcr Ihr Zuhause oder B\u00fcro ben\u00f6tigen. Wir haben eine gro\u00dfe Auswahl an Produkten und Dienstleistungen, die Sie bei uns finden.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sanit\u00e4rinstallation: Hersteller und Produkte",
+            "metaDescription": "Sanit\u00e4rinstallation - Wir sind ein f\u00fchrender Hersteller von Sanit\u00e4rprodukten. Unsere Produkte sind hochwertig und zuverl\u00e4ssig.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Sanit\u00e4rinstallation",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte L\u00f6sung f\u00fcr Ihre Sanit\u00e4rinstallation. $KATEGORIE bietet Ihnen alles, was Sie f\u00fcr Ihr Zuhause oder B\u00fcro ben\u00f6tigen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Sanit\u00e4rinstallationen f\u00fcr jeden Bedarf",
+        "defaultMetaDescription": "$KATEGORIE Sanit\u00e4rinstallation: Finden Sie hier alles f\u00fcr Ihre Sanit\u00e4rinstallation - von der Planung bis zur Ausf\u00fchrung.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Sanit\u00e4rinstallation. Wir bieten Ihnen eine umfassende Beratung und Installation von Sanit\u00e4rprodukten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Sanit\u00e4rinstallation",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Sanit\u00e4rinstallation Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Sanit\u00e4rinstallation Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
