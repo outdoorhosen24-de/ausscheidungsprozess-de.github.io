@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/ppr-rohre", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ppr-rohr-dn-20-x-2-m-sonstige-4135802-1.jpg":"\u002Fassets\u002Fimages\u002Fppr-rohr-dn-20-x-2-m-sonstige-4135802-1.webp"}}],fetch:{},mutations:void 0});

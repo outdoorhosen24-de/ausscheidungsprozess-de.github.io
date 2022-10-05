@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/lotfittings", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/loet-uebergangsnippel-o-28-mm-x-333-mm-r-1-rotguss-sonstige-7407059-1.jpg":"\u002Fassets\u002Fimages\u002Floet-uebergangsnippel-o-28-mm-x-333-mm-r-1-rotguss-sonstige-7407059-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/heimeier", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/heimeier-thermostatkopf-zur-montage-am-heizkoerper-heimeier-2527869-1.jpg":"\u002Fassets\u002Fimages\u002Fheimeier-thermostatkopf-zur-montage-am-heizkoerper-heimeier-2527869-1.webp"}}],fetch:{},mutations:void 0});

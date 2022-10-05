@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/stockschrauben", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lux-stockschraube-m8-x-50-mm-lux-tools-6386932-1.jpg":"\u002Fassets\u002Fimages\u002Flux-stockschraube-m8-x-50-mm-lux-tools-6386932-1.webp"}}],fetch:{},mutations:void 0});
