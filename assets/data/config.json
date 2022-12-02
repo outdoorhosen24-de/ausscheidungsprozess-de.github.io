@@ -51,12 +51,15 @@
             "title": "Sanitärinstallationen - alles für Ihr Badezimmer",
             "metaDescription": "Die Sanitärinstallation ist ein wichtiger Teil der Haustechnik. Wir bieten Ihnen eine große Auswahl an Produkten und Dienstleistungen rund um das Thema Sanitär.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Sanitärinstallation",
-                    "text": "Die Sanitärinstallation ist ein wesentlicher Bestandteil eines Gebäudes. Sie dient der Abwasserableitung und der Trinkwasserversorgung. Die Installation muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie ersten Sanitäranlagen wurden in den Städten errichtet, um das Abwasser der Haushalte von den Straßen fernzuhalten. Die Anlagen bestanden aus einem Rohrsystem, das das Abwasser aus den Häusern ableitete und in ein gemeinsames Abwasserkanalisation führte.\n\nHeutzutage sind die Anforderungen an eine Sanitärinstallation weitaus höher. Die Installation muss den neuesten hygienischen Standards entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Trinkwasserversorgung ist ebenfalls ein wesentlicher Bestandteil einer Sanitärinstallation. Das Trinkwasser muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Installation einer Sanitärinstallation ist eine komplexe Aufgabe, die von Fachleuten durchgeführt werden muss. Die Planung und Ausführung einer Sanitärinstallation muss den jeweiligen lokalen Gegebenheiten angepasst werden."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Sanitärinstallation",
+                        "text": "Die Sanitärinstallation ist ein wesentlicher Bestandteil eines Gebäudes. Sie dient der Abwasserableitung und der Trinkwasserversorgung. Die Installation muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie ersten Sanitäranlagen wurden in den Städten errichtet, um das Abwasser der Haushalte von den Straßen fernzuhalten. Die Anlagen bestanden aus einem Rohrsystem, das das Abwasser aus den Häusern ableitete und in ein gemeinsames Abwasserkanalisation führte.\n\nHeutzutage sind die Anforderungen an eine Sanitärinstallation weitaus höher. Die Installation muss den neuesten hygienischen Standards entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Trinkwasserversorgung ist ebenfalls ein wesentlicher Bestandteil einer Sanitärinstallation. Das Trinkwasser muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Installation einer Sanitärinstallation ist eine komplexe Aufgabe, die von Fachleuten durchgeführt werden muss. Die Planung und Ausführung einer Sanitärinstallation muss den jeweiligen lokalen Gegebenheiten angepasst werden."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Sanitärinstallationen Shop",
