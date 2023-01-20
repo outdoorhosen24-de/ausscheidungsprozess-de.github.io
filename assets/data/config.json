@@ -37,7 +37,7 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": "Material,Funktionalität,Vielseitigkeit,Haltbarkeit",
+    "checklist": ["Material", "Funktionalität", "Vielseitigkeit", "Haltbarkeit"],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sanitärinstallation",
@@ -47,13 +47,11 @@
             "metaDescription": "Die Sanitärinstallation ist ein wichtiger Teil der Haustechnik. Wir sind auf die Installation von Sanitäranlage und Heizungstechnik spezialisiert.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
-                "content": [
-                    {
-                        "title": "Sanitärinstallation",
-                        "text": "Die Sanitärinstallation ist ein wesentlicher Bestandteil eines Gebäudes. Sie dient der Abwasserableitung und der Trinkwasserversorgung. Die Installation muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie ersten Sanitäranlagen wurden in den Städten errichtet, um das Abwasser der Haushalte von den Straßen fernzuhalten. Die Anlagen bestanden aus einem Rohrsystem, das das Abwasser aus den Häusern ableitete und in ein gemeinsames Abwasserkanalisation führte.\n\nHeutzutage sind die Anforderungen an eine Sanitärinstallation weitaus höher. Die Installation muss den neuesten hygienischen Standards entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Trinkwasserversorgung ist ebenfalls ein wesentlicher Bestandteil einer Sanitärinstallation. Das Trinkwasser muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Installation einer Sanitärinstallation ist eine komplexe Aufgabe, die von Fachleuten durchgeführt werden muss. Die Planung und Ausführung einer Sanitärinstallation muss den jeweiligen lokalen Gegebenheiten angepasst werden."
-                    }
-                ]
+                "publish": false,
+                "content": [{
+                    "title": "Sanitärinstallation",
+                    "text": "Die Sanitärinstallation ist ein wesentlicher Bestandteil eines Gebäudes. Sie dient der Abwasserableitung und der Trinkwasserversorgung. Die Installation muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie ersten Sanitäranlagen wurden in den Städten errichtet, um das Abwasser der Haushalte von den Straßen fernzuhalten. Die Anlagen bestanden aus einem Rohrsystem, das das Abwasser aus den Häusern ableitete und in ein gemeinsames Abwasserkanalisation führte.\n\nHeutzutage sind die Anforderungen an eine Sanitärinstallation weitaus höher. Die Installation muss den neuesten hygienischen Standards entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Trinkwasserversorgung ist ebenfalls ein wesentlicher Bestandteil einer Sanitärinstallation. Das Trinkwasser muss den hygienischen Anforderungen entsprechen und darf keine Gesundheitsgefahr darstellen.\n\nDie Installation einer Sanitärinstallation ist eine komplexe Aufgabe, die von Fachleuten durchgeführt werden muss. Die Planung und Ausführung einer Sanitärinstallation muss den jeweiligen lokalen Gegebenheiten angepasst werden."
+                }]
             }
         },
         "shop": {
@@ -71,63 +69,55 @@
         "defaultTitle": "$PRODUKT - bequem online bestellen",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Vorhaben. Top Produkte aus der Kategorie $KATEGORIE. Best-Preis-Garantie.",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE: Sanitärinstallationen für jeden Bedarf",
         "defaultMetaDescription": "Sanitärinstallation mit Produkten aus der Kategorie $KATEGORIE. Modernste $KATEGORIEN sorgen für robuste und langlebige Alternativen.",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "Günstige und hochwertige Produkte vom Hersteller $HERSTELLER",
         "defaultMetaDescription": "Suchen Sie nicht weiter nach einem zuverlässigen und professionellen Produkten. Wir bieten Ihnen hochwertige Materialien von dem Hersteller $HERSTELLER.",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Sanitärinstallation",
