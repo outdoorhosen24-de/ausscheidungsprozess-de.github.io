@@ -2,21 +2,21 @@
     {
         "key": "wc-anschlüsse",
         "name": "WC-Anschlüsse",
-        "slug": "wc-anschlusse",
+        "slug": "wc-anschluesse",
         "productCategory": "WC-Anschlüsse",
         "subCategories": []
     },
     {
         "key": "spülrohrdichtungen",
         "name": "Spülrohrdichtungen",
-        "slug": "spulrohrdichtungen",
+        "slug": "spuelrohrdichtungen",
         "productCategory": "Spülrohrdichtungen",
         "subCategories": []
     },
     {
         "key": "spülbögen",
         "name": "Spülbögen",
-        "slug": "spulbogen",
+        "slug": "spuelboegen",
         "productCategory": "Spülbögen",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "spülrohre",
         "name": "Spülrohre",
-        "slug": "spulrohre",
+        "slug": "spuelrohre",
         "productCategory": "Spülrohre",
         "subCategories": []
     },
@@ -44,14 +44,14 @@
     {
         "key": "wc-anschlussbögen",
         "name": "WC-Anschlussbögen",
-        "slug": "wc-anschlussbogen",
+        "slug": "wc-anschlussboegen",
         "productCategory": "WC-Anschlussbögen",
         "subCategories": []
     },
     {
         "key": "druckspühlrohre",
         "name": "Druckspühlrohre",
-        "slug": "druckspuhlrohre",
+        "slug": "druckspuehlrohre",
         "productCategory": "Druckspühlrohre",
         "subCategories": []
     },
@@ -65,35 +65,35 @@
     {
         "key": "spülrohrverbinder",
         "name": "Spülrohrverbinder",
-        "slug": "spulrohrverbinder",
+        "slug": "spuelrohrverbinder",
         "productCategory": "Spülrohrverbinder",
         "subCategories": []
     },
     {
         "key": "spülkästen",
         "name": "Spülkästen",
-        "slug": "spulkasten",
+        "slug": "spuelkaesten",
         "productCategory": "Spülkästen",
         "subCategories": []
     },
     {
         "key": "aufputzspülkästen",
         "name": "Aufputzspülkästen",
-        "slug": "aufputzspulkasten",
+        "slug": "aufputzspuelkaesten",
         "productCategory": "Aufputzspülkästen",
         "subCategories": []
     },
     {
         "key": "drückerplatten",
         "name": "Drückerplatten",
-        "slug": "druckerplatten",
+        "slug": "drueckerplatten",
         "productCategory": "Drückerplatten",
         "subCategories": []
     },
     {
         "key": "wc-drückerplatten",
         "name": "WC-Drückerplatten",
-        "slug": "wc-druckerplatten",
+        "slug": "wc-drueckerplatten",
         "productCategory": "WC-Drückerplatten",
         "subCategories": []
     },
@@ -107,21 +107,21 @@
     {
         "key": "nassbauelemente für wc´s",
         "name": "Nassbauelemente für WC´s",
-        "slug": "nassbauelemente-fur-wcs",
+        "slug": "nassbauelemente-fuer-wc´s",
         "productCategory": "Nassbauelemente für WC´s",
         "subCategories": []
     },
     {
         "key": "trockenbauelemente für wc´s",
         "name": "Trockenbauelemente für WC´s",
-        "slug": "trockenbauelemente-fur-wcs",
+        "slug": "trockenbauelemente-fuer-wc´s",
         "productCategory": "Trockenbauelemente für WC´s",
         "subCategories": []
     },
     {
         "key": "ersatzteile für unterputzspülkästen",
         "name": "Ersatzteile für Unterputzspülkästen",
-        "slug": "ersatzteile-fur-unterputzspulkasten",
+        "slug": "ersatzteile-fuer-unterputzspuelkaesten",
         "productCategory": "Ersatzteile für Unterputzspülkästen",
         "subCategories": []
     },
@@ -142,21 +142,21 @@
     {
         "key": "ersatzteile für aufputzspülkästen",
         "name": "Ersatzteile für Aufputzspülkästen",
-        "slug": "ersatzteile-fur-aufputzspulkasten",
+        "slug": "ersatzteile-fuer-aufputzspuelkaesten",
         "productCategory": "Ersatzteile für Aufputzspülkästen",
         "subCategories": []
     },
     {
         "key": "zubehör & ersatzteile",
         "name": "Zubehör & Ersatzteile",
-        "slug": "zubehor-ersatzteile",
+        "slug": "zubehoer-ersatzteile",
         "productCategory": "Zubehör & Ersatzteile",
         "subCategories": []
     },
     {
         "key": "trockenbauelemente für waschbecken",
         "name": "Trockenbauelemente für Waschbecken",
-        "slug": "trockenbauelemente-fur-waschbecken",
+        "slug": "trockenbauelemente-fuer-waschbecken",
         "productCategory": "Trockenbauelemente für Waschbecken",
         "subCategories": []
     },
@@ -170,7 +170,7 @@
     {
         "key": "heizkörper",
         "name": "Heizkörper",
-        "slug": "heizkorper",
+        "slug": "heizkoerper",
         "productCategory": "Heizkörper",
         "subCategories": []
     },
@@ -219,21 +219,21 @@
     {
         "key": "anschluss-schläuche",
         "name": "Anschluss-Schläuche",
-        "slug": "anschluss-schlauche",
+        "slug": "anschluss-schlaeuche",
         "productCategory": "Anschluss-Schläuche",
         "subCategories": []
     },
     {
         "key": "flexschläuche",
         "name": "Flexschläuche",
-        "slug": "flexschlauche",
+        "slug": "flexschlaeuche",
         "productCategory": "Flexschläuche",
         "subCategories": []
     },
     {
         "key": "wasserzähler",
         "name": "Wasserzähler",
-        "slug": "wasserzahler",
+        "slug": "wasserzaehler",
         "productCategory": "Wasserzähler",
         "subCategories": []
     },
@@ -282,14 +282,14 @@
     {
         "key": "ht-reduzierstücke",
         "name": "HT-Reduzierstücke",
-        "slug": "ht-reduzierstucke",
+        "slug": "ht-reduzierstuecke",
         "productCategory": "HT-Reduzierstücke",
         "subCategories": []
     },
     {
         "key": "ht-bögen",
         "name": "HT-Bögen",
-        "slug": "ht-bogen",
+        "slug": "ht-boegen",
         "productCategory": "HT-Bögen",
         "subCategories": []
     },
@@ -303,7 +303,7 @@
     {
         "key": "wasserenthärter",
         "name": "Wasserenthärter",
-        "slug": "wasserentharter",
+        "slug": "wasserenthaerter",
         "productCategory": "Wasserenthärter",
         "subCategories": []
     },
@@ -317,7 +317,7 @@
     {
         "key": "waschgeräte-ventile",
         "name": "Waschgeräte-Ventile",
-        "slug": "waschgerate-ventile",
+        "slug": "waschgeraete-ventile",
         "productCategory": "Waschgeräte-Ventile",
         "subCategories": []
     },
@@ -338,7 +338,7 @@
     {
         "key": "waschmaschinen-schläuche",
         "name": "Waschmaschinen-Schläuche",
-        "slug": "waschmaschinen-schlauche",
+        "slug": "waschmaschinen-schlaeuche",
         "productCategory": "Waschmaschinen-Schläuche",
         "subCategories": []
     },
@@ -394,14 +394,14 @@
     {
         "key": "druckspüler",
         "name": "Druckspüler",
-        "slug": "druckspuler",
+        "slug": "druckspueler",
         "productCategory": "Druckspüler",
         "subCategories": []
     },
     {
         "key": "wc-druckspüler",
         "name": "WC-Druckspüler",
-        "slug": "wc-druckspuler",
+        "slug": "wc-druckspueler",
         "productCategory": "WC-Druckspüler",
         "subCategories": []
     },
@@ -422,7 +422,7 @@
     {
         "key": "lötfittings",
         "name": "Lötfittings",
-        "slug": "lotfittings",
+        "slug": "loetfittings",
         "productCategory": "Lötfittings",
         "subCategories": []
     },
@@ -436,7 +436,7 @@
     {
         "key": "panzer-schläuche",
         "name": "Panzer-Schläuche",
-        "slug": "panzer-schlauche",
+        "slug": "panzer-schlaeuche",
         "productCategory": "Panzer-Schläuche",
         "subCategories": []
     },
