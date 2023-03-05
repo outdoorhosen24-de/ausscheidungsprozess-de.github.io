@@ -52,7 +52,7 @@
             "metaDescription": "Die Sanitärinstallation ist ein wichtiger Teil der Haustechnik. Wir sind auf die Installation von Sanitäranlage und Heizungstechnik spezialisiert.",
             "robots": "index, follow",
             "seotext": {
-                "publish": false,
+                "publish": true,
                 "content": [
                     {
                         "title": "Willkommen bei Ausscheidungsprozess.de",
