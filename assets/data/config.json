@@ -1,469 +1,476 @@
 {
-  "configIsReady": true,
-  "domain": "ausscheidungsprozess.de",
-  "hostname": "https://www.ausscheidungsprozess.de/",
-  "email": "ausscheidungsprozess.de@surrealnetworks.io",
-  "organization": "ausscheidungsprozess.de",
-  "logoText": "Ausscheidungsprozess.de",
-  "title": "Sanitärinstallation",
-  "subline": "Der Online Shop für Sanitärinstallation",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7434384",
-    "7460348",
-    "6312086",
-    "5714167",
-    "5207881",
-    "2214070"
-  ],
-  "winnerProducts": [
-    "3478682",
-    "7436363",
-    "2538064"
-  ],
-  "featuredCategories": [
-    "Flexschläuche",
-    "Trockenbauelemente für WC´s",
-    "Kupferrohre",
-    "Kupferrohre",
-    "Spülrohrdichtungen",
-    "Trockenbauelemente für WC´s"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Funktionalität",
-    "Vielseitigkeit",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Sanitärinstallation",
-    "featureText": "Von der Installation von Waschbecken und Toiletten bis hin zur Reparatur von Badewannen und Duschen. Wir bieten Ihnen eine umfassende Produktreihe für die Installation jeder Art von Sanitäreinrichtungen. Ob von Spülkästen, Heizkörper bis hin zu Wasserzähler. Mit uns erhalten sie nicht nur qualitativ hochwertige Produkte, sondern auch einen fairen Preis.",
-    "index": {
-      "title": "Sanitär und Heizung - Haustechnik leicht gemacht",
-      "metaDescription": "Die Sanitärinstallation ist ein wichtiger Teil der Haustechnik. Wir sind auf die Installation von Sanitäranlage und Heizungstechnik spezialisiert.",
-      "robots": "index, follow",
-      "seotext": {
-        "publish": true,
-        "content": [
-          {
-            "title": "Willkommen bei Ausscheidungsprozess.de",
-            "text": "Herzlich Willkommen auf unserer Online-Shop-Plattform für alle Bedürfnisse rund um die Sanitärinstallation. Bei uns finden Sie eine breite Auswahl an Produkten, die Ihnen bei der Gestaltung und Montage Ihrer Sanitäranlagen unterstützen. Von WC-Anschlüssen über Spülbögen bis hin zu Spülrohrverbindern - wir haben alles im Angebot, was Sie für eine erfolgreiche Sanitärinstallation benötigen. Unsere Produkte zeichnen sich durch höchste Qualität und lange Lebensdauer aus, so dass Sie lange Freude an Ihren Anlagen haben werden. Schauen Sie sich in Ruhe um und entdecken Sie unser umfassendes Angebot. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verfügung."
-          },
-          {
-            "title": "WC-Anschlüsse",
-            "text": "<a href=\"/kategorie/wc-anschluesse/\" title=\"WC-Anschlüsse\">WC-Anschlüsse</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlüssen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlüsse sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlüsse für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Spülrohrdichtungen",
-            "text": "<a href=\"/kategorie/spuelrohrdichtungen/\" title=\"Spülrohrdichtungen\">Spülrohrdichtungen</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohrdichtungen, die Ihnen eine sichere Abdichtung Ihrer Spülrohre garantieren. Unsere Spülrohrdichtungen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohrdichtungen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Spülbögen",
-            "text": "<a href=\"/kategorie/spuelboegen/\" title=\"Spülbögen\">Spülbögen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülbögen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere Spülbögen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülbögen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "WC-Anschlussrohre",
-            "text": "<a href=\"/kategorie/wc-anschlussrohre/\" title=\"WC-Anschlussrohre\">WC-Anschlussrohre</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussrohren, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussrohre für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Spülrohre",
-            "text": "<a href=\"/kategorie/spuelrohre/\" title=\"Spülrohre\">Spülrohre</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohren, die Ihnen eine sichere und dauerhafte Verbindung von Spülkasten und Abflussrohr garantieren. Unsere Spülrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohre für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "WC-Anschlussgarnituren",
-            "text": "<a href=\"/kategorie/wc-anschlussgarnituren/\" title=\"WC-Anschlussgarnituren\">WC-Anschlussgarnituren</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussgarnituren, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussgarnituren sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussgarnituren für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "WC-Anschlussbögen",
-            "text": "<a href=\"/kategorie/wc-anschlussboegen/\" title=\"WC-Anschlussbögen\">WC-Anschlussbögen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussbögen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussbögen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussbögen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Druckspühlrohre",
-            "text": "<a href=\"/kategorie/druckspuehlrohre/\" title=\"Druckspühlrohre\">Druckspühlrohre</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Druckspühlrohren, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Druckspühlrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Druckspühlrohre für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "WC-Anschlussstutzen",
-            "text": "<a href=\"/kategorie/wc-anschlussstutzen/\" title=\"WC-Anschlussstutzen\">WC-Anschlussstutzen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussstutzen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussstutzen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussstutzen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Spülrohrverbinder",
-            "text": "<a href=\"/kategorie/spuelrohrverbinder/\" title=\"Spülrohrverbinder\">Spülrohrverbinder</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohrverbindern, die Ihnen eine sichere und dauerhafte Verbindung von Spülkasten und Abflussrohr garantieren. Unsere Spülrohrverbinder sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohrverbinder für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Spülkästen",
-            "text": "<a href=\"/kategorie/spuelkaesten/\" title=\"Spülkästen\">Spülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülkästen, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Spülkästen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülkästen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Aufputzspülkästen",
-            "text": "<a href=\"/kategorie/aufputzspuelkaesten/\" title=\"Aufputzspülkästen\">Aufputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Aufputzspülkästen, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Aufputzspülkästen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Aufputzspülkästen für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Drückerplatten",
-            "text": "<a href=\"/kategorie/drueckerplatten/\" title=\"Drückerplatten\">Drückerplatten</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Drückerplatten, die Ihnen eine sichere und zuverlässige Bedienung Ihrer Toiletten garantieren. Unsere Drückerplatten sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Drückerplatten für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "WC-Drückerplatten",
-            "text": "<a href=\"/kategorie/wc-drueckerplatten/\" title=\"WC-Drückerplatten\">WC-Drückerplatten</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Drückerplatten, die Ihnen eine sichere und zuverlässige Bedienung Ihrer Toiletten garantieren. Unsere WC-Drückerplatten sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Drückerplatten für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Vorwandelemente",
-            "text": "<a href=\"/kategorie/vorwandelemente/\" title=\"Vorwandelemente\">Vorwandelemente</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Vorwandelementen, die Ihnen eine sichere und zuverlässige Montage Ihrer Toiletten garantieren. Unsere Vorwandelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Vorwandelemente für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Nassbauelemente für WC´s",
-            "text": "Nassbauelemente sind ein wichtiger Bestandteil jeder WC-Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Nassbauelementen, die Ihnen eine sichere und zuverlässige Installation Ihrer WC´s garantieren. Unsere Nassbauelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Nassbauelemente für Ihre WC-Sanitärinstallation."
-          },
-          {
-            "title": "Trockenbauelemente für WC´s",
-            "text": "Trockenbauelemente sind ein wichtiger Bestandteil jeder WC-Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Trockenbauelementen, die Ihnen eine sichere und zuverlässige Installation Ihrer WC´s garantieren. Unsere Trockenbauelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Trockenbauelemente für Ihre WC-Sanitärinstallation."
-          },
-          {
-            "title": "Ersatzteile für Unterputzspülkästen",
-            "text": "<a href=\"/kategorie/ersatzteile-fuer-unterputzspuelkaesten/\" title=\"Ersatzteile für Unterputzspülkästen\">Ersatzteile für Unterputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ersatzteilen, die Ihnen eine sichere und zuverlässige Instandhaltung Ihrer Unterputzspülkästen garantieren. Unsere Ersatzteile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ersatzteile für Ihre Unterputzspülkästen."
-          },
-          {
-            "title": "Ventile",
-            "text": "<a href=\"/kategorie/ventile/\" title=\"Ventile\">Ventile</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ventilen, die Ihnen eine sichere und zuverlässige Steuerung des Wasserflusses in Ihrer Installation garantieren. Unsere Ventile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ventile für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Eckventile",
-            "text": "<a href=\"/kategorie/eckventile/\" title=\"Eckventile\">Eckventile</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Eckventilen, die Ihnen eine sichere und zuverlässige Steuerung des Wasserflusses in Ihrer Installation garantieren. Unsere Eckventile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Eckventile für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Ersatzteile für Aufputzspülkästen",
-            "text": "<a href=\"/kategorie/ersatzteile-fuer-aufputzspuelkaesten/\" title=\"Ersatzteile für Aufputzspülkästen\">Ersatzteile für Aufputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ersatzteilen, die Ihnen eine sichere und zuverlässige Instandhaltung Ihrer Aufputzspülkästen garantieren. Unsere Ersatzteile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ersatzteile für Ihre Aufputzspülkästen."
-          },
-          {
-            "title": "Zubehör & Ersatzteile",
-            "text": "In unserem Online-Shop für Sanitärinstallationen finden Sie eine umfangreiche Auswahl an Zubehör und Ersatzteilen. Von Armaturen bis hin zu Dichtungen und Ventilen bieten wir alles, was Sie für Ihre Sanitärinstallation benötigen. Unser Sortiment umfasst hochwertige und langlebige Produkte von renommierten Herstellern, die Ihnen eine zuverlässige und langlebige Funktionalität garantieren. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/zubehoer-ersatzteile/\" title=\"Zubehör & Ersatzteile\">Zubehör & Ersatzteile</a> und finden Sie genau das, was Sie für Ihre Sanitärinstallation benötigen."
-          },
-          {
-            "title": "Trockenbauelemente für Waschbecken",
-            "text": "In unserem Online-Shop für Sanitärinstallationen finden Sie auch eine große Auswahl an Trockenbauelementen für Waschbecken. Von Ablaufgarnituren bis hin zu Armaturen und Waschbeckenunterschränken bieten wir alles, was Sie für Ihre Waschbeckeninstallation benötigen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige und langlebige Funktionalität. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/trockenbauelemente-fuer-waschbecken/\" title=\"Trockenbauelemente für Waschbecken\">Trockenbauelemente für Waschbecken</a> und finden Sie genau das, was Sie für Ihre Waschbeckeninstallation benötigen."
-          },
-          {
-            "title": "Heizungstechnik",
-            "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir auch eine große Auswahl an <a href=\"/kategorie/heizungstechnik/\" title=\"Heizungstechnik\">Heizungstechnik</a>. Von Heizkörpern bis hin zu Regelungen und Zubehör finden Sie alles, was Sie für Ihre Heizungsanlage benötigen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige und energieeffiziente Funktionalität. Stöbern Sie jetzt durch unsere Kategorie Heizungstechnik und finden Sie genau das, was Sie für Ihre Heizungsanlage benötigen."
-          },
-          {
-            "title": "Heizkörper",
-            "text": "Entdecken Sie unsere Auswahl an <a href=\"/kategorie/heizkoerper/\" title=\"Heizkörper\">Heizkörper</a>n für Ihre Sanitärinstallation. Wir bieten Ihnen eine große Auswahl an modernen und stilvollen Heizkörpern, die Ihrem Zuhause ein angenehmes Raumklima verleihen. Alle Heizkörper sind aus hochwertigen Materialien hergestellt und erfüllen die höchsten Qualitätsstandards. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Heizkörper für Ihr Zuhause."
-          },
-          {
-            "title": "Heizungs-Installation",
-            "text": "Unsere Experten stehen Ihnen bei Ihrer <a href=\"/kategorie/heizungs-installation/\" title=\"Heizungs-Installation\">Heizungs-Installation</a> zur Verfügung. Wir bieten Ihnen eine umfassende Beratung und Installation von Heizungssystemen, um sicherzustellen, dass Ihre Sanitärinstallation reibungslos funktioniert. Ob Sie eine neue Heizung installieren oder Ihre bestehende Heizung aktualisieren möchten, wir sind hier, um Ihnen zu helfen. Besuchen Sie jetzt unseren Online-Shop und lassen Sie uns Ihnen bei Ihrer Heizungs-Installation helfen."
-          },
-          {
-            "title": "Wasserrohre",
-            "text": "Wir bieten Ihnen eine breite Palette an <a href=\"/kategorie/wasserrohre/\" title=\"Wasserrohre\">Wasserrohre</a>n für Ihre Sanitärinstallation. Unsere Wasserrohre sind aus hochwertigen Materialien hergestellt und erfüllen die höchsten Qualitätsstandards. Ob Sie ein neues Wasserrohr für Ihre Waschmaschine oder Ihr Waschbecken benötigen, wir haben das passende Rohr für Sie. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie unsere große Auswahl an Wasserrohren."
-          },
-          {
-            "title": "Verzinkte Rohre",
-            "text": "<a href=\"/kategorie/verzinkte-rohre/\" title=\"Verzinkte Rohre\">Verzinkte Rohre</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Diese Rohre bieten nicht nur eine lange Lebensdauer, sondern auch eine hervorragende Korrosionsbeständigkeit. Bei ausscheidungsprozess.de finden Sie eine breite Auswahl an verzinkten Rohren in verschiedenen Größen und Ausführungen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation."
-          },
-          {
-            "title": "Fittings",
-            "text": "<a href=\"/kategorie/fittings/\" title=\"Fittings\">Fittings</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei ausscheidungsprozess.de finden Sie eine große Auswahl an Fittings in verschiedenen Ausführungen und Größen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation. Ob Sie Rohre verbinden, einen Wasseranschluss herstellen oder einen Abfluss installieren möchten, bei uns finden Sie das passende Fitting."
-          },
-          {
-            "title": "Temperguss-Fittings",
-            "text": "<a href=\"/kategorie/temperguss-fittings/\" title=\"Temperguss-Fittings\">Temperguss-Fittings</a> sind eine hervorragende Wahl für jede Sanitärinstallation. Diese Fittings zeichnen sich durch ihre hohe Stärke und Beständigkeit aus. Bei ausscheidungsprozess.de finden Sie eine breite Auswahl an Temperguss-Fittings in verschiedenen Größen und Ausführungen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation."
-          },
-          {
-            "title": "PPR-Rohre",
-            "text": "<a href=\"/kategorie/ppr-rohre/\" title=\"PPR-Rohre\">PPR-Rohre</a> sind eine hervorragende Wahl für Ihre Sanitärinstallation. Diese robusten Rohre bieten eine lange Lebensdauer und eine zuverlässige Leistung. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine breite Auswahl an PPR-Rohren in verschiedenen Größen und Durchmessern. Überzeugen Sie sich selbst von den Vorteilen dieser Rohre und bestellen Sie jetzt Ihre PPR-Rohre für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Anschluss-Schläuche",
-            "text": "Die <a href=\"/kategorie/anschluss-schlaeuche/\" title=\"Anschluss-Schläuche\">Anschluss-Schläuche</a> sind ein unverzichtbarer Bestandteil jeder Sanitärinstallation. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine große Auswahl an Anschluss-Schläuchen in verschiedenen Größen und Materialien. Ob Sie PVC-Schläuche, Gummischläuche oder Edelstahlschläuche benötigen, hier werden Sie fündig. Bestellen Sie jetzt Ihre Anschluss-Schläuche für Ihre Sanitärinstallation und profitieren Sie von hoher Qualität und Zuverlässigkeit."
-          },
-          {
-            "title": "Flexschläuche",
-            "text": "<a href=\"/kategorie/flexschlaeuche/\" title=\"Flexschläuche\">Flexschläuche</a> sind eine praktische und flexible Lösung für Ihre Sanitärinstallation. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine große Auswahl an Flexschläuchen in verschiedenen Größen und Materialien. Ob Sie braune, weiße oder blaue Flexschläuche benötigen, hier werden Sie fündig. Bestellen Sie jetzt Ihre Flexschläuche für Ihre Sanitärinstallation und profitieren Sie von einer einfachen und zuverlässigen Verbindung."
-          },
-          {
-            "title": "Wasserzähler",
-            "text": "Im Bereich Sanitärinstallation sind <a href=\"/kategorie/wasserzaehler/\" title=\"Wasserzähler\">Wasserzähler</a> ein unverzichtbarer Bestandteil. In unserem Online-Shop finden Sie eine große Auswahl an Wasserzählern, die sich durch ihre hohe Funktionalität und Zuverlässigkeit auszeichnen. Unsere Produkte sind einfach zu installieren und bieten eine präzise Messung des Wasserverbrauchs. Überzeugen Sie sich selbst von unseren hochwertigen Wasserzählern!"
-          },
-          {
-            "title": "Mehrschichtverbundrohre",
-            "text": "<a href=\"/kategorie/mehrschichtverbundrohre/\" title=\"Mehrschichtverbundrohre\">Mehrschichtverbundrohre</a> sind eine zuverlässige Lösung für die Sanitärinstallation. Sie zeichnen sich durch ihre hohe Stabilität und lange Lebensdauer aus. In unserem Online-Shop finden Sie eine große Auswahl an Mehrschichtverbundrohren in verschiedenen Größen und Ausführungen. Unsere Produkte sind einfach zu verarbeiten und bieten eine hohe Dichtheit. Überzeugen Sie sich selbst von den Vorteilen unserer Mehrschichtverbundrohre!"
-          },
-          {
-            "title": "Rohr-Befestigungstechnik",
-            "text": "In der Sanitärinstallation ist eine sichere und stabile Befestigung der Rohre von großer Bedeutung. Unsere <a href=\"/kategorie/rohr-befestigungstechnik/\" title=\"Rohr-Befestigungstechnik\">Rohr-Befestigungstechnik</a> bietet eine zuverlässige und einfache Lösung. In unserem Online-Shop finden Sie eine große Auswahl an Befestigungstechnik, die sich durch ihre hohe Belastbarkeit und Stabilität auszeichnet. Überzeugen Sie sich selbst von der Qualität unserer Rohr-Befestigungstechnik!"
-          },
-          {
-            "title": "Rohrschellen",
-            "text": "Die Kategorie <a href=\"/kategorie/rohrschellen/\" title=\"Rohrschellen\">Rohrschellen</a> beinhaltet eine Vielzahl an Produkten, die für die Befestigung von Rohren in der Sanitärinstallation verwendet werden. Hier finden Sie hochwertige und langlebige Rohrschellen, die für eine sichere und stabile Montage sorgen. Ob für den Einsatz im Innen- oder Außenbereich, hier finden Sie das passende Produkt für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Schallschutzrohrschellen",
-            "text": "Die Kategorie <a href=\"/kategorie/schallschutzrohrschellen/\" title=\"Schallschutzrohrschellen\">Schallschutzrohrschellen</a> beinhaltet spezielle Rohrschellen, die für den Einsatz in Lärmsensiblen Bereichen entwickelt wurden. Diese Rohrschellen reduzieren den Schallübertrag und sorgen somit für eine verbesserte Schalldämmung. Hier finden Sie eine große Auswahl an Schallschutzrohrschellen, die für eine einfache und effektive Montage geeignet sind."
-          },
-          {
-            "title": "Kupferrohre",
-            "text": "In der Kategorie <a href=\"/kategorie/kupferrohre/\" title=\"Kupferrohre\">Kupferrohre</a> finden Sie eine große Auswahl an hochwertigen Kupferrohren, die für eine Vielzahl an Anwendungen in der Sanitärinstallation geeignet sind. Durch ihre hohe Korrosionsbeständigkeit und lange Lebensdauer eignen sich Kupferrohre besonders für den Einsatz in der Trinkwasserinstallation. Hier finden Sie Kupferrohre in verschiedenen Größen und Längen, die für eine einfache und sichere Verlegung geeignet sind."
-          },
-          {
-            "title": "HT-Rohre",
-            "text": "Unsere Kategorie <a href=\"/kategorie/ht-rohre/\" title=\"HT-Rohre\">HT-Rohre</a> bietet Ihnen eine breite Auswahl an hochtemperaturbeständigen Rohren für Ihre Sanitärinstallation. Die Rohre sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer und Zuverlässigkeit. Ob für Heizungen oder andere Anwendungen, wir haben das passende HT-Rohr für Sie."
-          },
-          {
-            "title": "HT-Reduzierstücke",
-            "text": "In unserer Kategorie <a href=\"/kategorie/ht-reduzierstuecke/\" title=\"HT-Reduzierstücke\">HT-Reduzierstücke</a> finden Sie eine große Auswahl an Reduzierstücken, die für hohe Temperaturen geeignet sind. Die Stücke sind aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer und Zuverlässigkeit. Verwenden Sie sie für Heizungen oder andere Anwendungen, um Ihre Sanitärinstallation abzuschließen."
-          },
-          {
-            "title": "HT-Bögen",
-            "text": "In unserer Kategorie <a href=\"/kategorie/ht-boegen/\" title=\"HT-Bögen\">HT-Bögen</a> finden Sie eine große Auswahl an Bögen, die für hohe Temperaturen geeignet sind. Die Bögen sind aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer und Zuverlässigkeit. Verwenden Sie sie für Heizungen oder andere Anwendungen, um Ihre Sanitärinstallation abzuschließen."
-          },
-          {
-            "title": "Wasseraufbereitung",
-            "text": "Im Bereich der <a href=\"/kategorie/wasseraufbereitung/\" title=\"Wasseraufbereitung\">Wasseraufbereitung</a> bietet Ihnen unser Online-Shop https://www.ausscheidungsprozess.de/ eine breite Auswahl an Produkten für Ihre Sanitärinstallation. Hier finden Sie alles, was Sie benötigen, um Ihr Wasser aufzubereiten und es so für den täglichen Gebrauch geeignet zu machen. Ob Sie eine einfache Filtersysteme oder komplexere Anlagen benötigen, wir haben die passenden Produkte für Sie."
-          },
-          {
-            "title": "Wasserenthärter",
-            "text": "Eine weitere wichtige Kategorie in unserem Online-Shop https://www.ausscheidungsprozess.de/ ist die Auswahl an <a href=\"/kategorie/wasserenthaerter/\" title=\"Wasserenthärter\">Wasserenthärter</a>n. Diese Systeme sind besonders wichtig, wenn Sie in einer Gegend mit hartem Wasser wohnen. Mit einem Wasserenthärter können Sie das Wasser weicher machen und so Kalkablagerungen in Ihren Sanitärinstallationen vermeiden. Schauen Sie sich jetzt in unserem Shop um und finden Sie das perfekte Wasserenthärtersystem für Ihre Bedürfnisse."
-          },
-          {
-            "title": "HT-Abflussrohre",
-            "text": "Als Teil unserer umfassenden Auswahl an Produkten für die Sanitärinstallation bieten wir Ihnen auch eine große Auswahl an <a href=\"/kategorie/ht-abflussrohre/\" title=\"HT-Abflussrohre\">HT-Abflussrohre</a>n. Diese Rohre sind besonders robust und langlebig und eignen sich perfekt für den Einsatz in industriellen Anlagen oder anderen Umgebungen mit hohen Anforderungen. Schauen Sie sich jetzt in unserem Online-Shop https://www.ausscheidungsprozess.de/ um und finden Sie das perfekte HT-Abflussrohr für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Waschgeräte-Ventile",
-            "text": "Sie suchen nach hochwertigen <a href=\"/kategorie/waschgeraete-ventile/\" title=\"Waschgeräte-Ventile\">Waschgeräte-Ventile</a>n für Ihre Sanitärinstallation? Dann sind Sie bei ausscheidungsprozess.de genau richtig! Wir bieten Ihnen eine große Auswahl an Waschgeräte-Ventilen in verschiedenen Größen und Ausführungen. Alle unsere Produkte zeichnen sich durch ihre Langlebigkeit und ihre hohe Funktionalität aus. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Waschgeräte-Ventile bei ausscheidungsprozess.de."
-          },
-          {
-            "title": "Verschraubungen",
-            "text": "Bei der Sanitärinstallation spielen <a href=\"/kategorie/verschraubungen/\" title=\"Verschraubungen\">Verschraubungen</a> eine wichtige Rolle. Um eine dauerhafte und zuverlässige Verbindung zwischen den einzelnen Rohrteilen herzustellen, sind hochwertige Verschraubungen unerlässlich. Bei ausscheidungsprozess.de finden Sie eine große Auswahl an Verschraubungen in verschiedenen Größen und Ausführungen. Alle unsere Produkte werden aus hochwertigen Materialien hergestellt und sind langlebig und zuverlässig. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Verschraubungen bei ausscheidungsprozess.de."
-          },
-          {
-            "title": "Stockschrauben",
-            "text": "Sie benötigen für Ihre Sanitärinstallation robuste und langlebige <a href=\"/kategorie/stockschrauben/\" title=\"Stockschrauben\">Stockschrauben</a>? Dann sind Sie bei ausscheidungsprozess.de genau richtig! Wir bieten Ihnen eine große Auswahl an Stockschrauben in verschiedenen Größen und Ausführungen. Alle unsere Produkte zeichnen sich durch ihre hohe Stabilität und ihre einfache Handhabung aus. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Stockschrauben bei ausscheidungsprozess.de."
-          },
-          {
-            "title": "Waschmaschinen-Schläuche",
-            "text": "Im Online-Shop Ausscheidungsprozess finden Sie eine breite Auswahl an <a href=\"/kategorie/waschmaschinen-schlaeuche/\" title=\"Waschmaschinen-Schläuche\">Waschmaschinen-Schläuche</a>n für Ihre Sanitärinstallation. Unsere hochwertigen Produkte sind robust und langlebig, damit Sie lange Freude an Ihrer Waschmaschine haben. Wir bieten Ihnen eine große Auswahl an unterschiedlichen Größen und Materialien, damit Sie das passende Waschmaschinenschlauch für Ihre Bedürfnisse finden. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Rosetten",
-            "text": "In unserem Online-Shop Ausscheidungsprozess finden Sie eine große Auswahl an <a href=\"/kategorie/rosetten/\" title=\"Rosetten\">Rosetten</a> für Ihre Sanitärinstallation. Wir bieten Ihnen Rosetten in verschiedenen Größen, Materialien und Designs, damit Sie das passende Produkt für Ihre Bedürfnisse finden. Unsere Rosetten sind robust und langlebig, damit Sie lange Freude an Ihrer Sanitärinstallation haben. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Klapprosetten",
-            "text": "In unserem Online-Shop Ausscheidungsprozess finden Sie eine breite Auswahl an <a href=\"/kategorie/klapprosetten/\" title=\"Klapprosetten\">Klapprosetten</a> für Ihre Sanitärinstallation. Unsere Klapprosetten sind robust und langlebig, damit Sie lange Freude an Ihrer Sanitärinstallation haben. Wir bieten Ihnen Klapprosetten in verschiedenen Größen, Materialien und Designs, damit Sie das passende Produkt für Ihre Bedürfnisse finden. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Klemmfittings",
-            "text": "<a href=\"/kategorie/klemmfittings/\" title=\"Klemmfittings\">Klemmfittings</a> sind ein wichtiger Bestandteil einer jeden Sanitärinstallation. Die hohe Qualität unserer Klemmfittings garantiert eine sichere und zuverlässige Verbindung. In unserem Online-Shop bieten wir eine breite Auswahl an Klemmfittings für jeden Bedarf und jedes Budget. Entdecken Sie jetzt unser umfangreiches Sortiment an Klemmfittings und optimieren Sie Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Gewindefittings",
-            "text": "<a href=\"/kategorie/gewindefittings/\" title=\"Gewindefittings\">Gewindefittings</a> sind ein weiteres wichtiges Element einer jeden Sanitärinstallation. Unsere hochwertigen Gewindefittings bieten eine zuverlässige und dauerhafte Verbindung. In unserem Online-Shop finden Sie eine große Auswahl an Gewindefittings in verschiedenen Größen und Ausführungen. Überzeugen Sie sich selbst von der Qualität unserer Gewindefittings und optimieren Sie Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Abdeckrosetten",
-            "text": "<a href=\"/kategorie/abdeckrosetten/\" title=\"Abdeckrosetten\">Abdeckrosetten</a> runden eine jede Sanitärinstallation perfekt ab. Unsere Abdeckrosetten sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. In unserem Online-Shop finden Sie eine große Auswahl an Abdeckrosetten in verschiedenen Größen und Ausführungen. Optimieren Sie Ihre Sanitärinstallation jetzt mit unseren hochwertigen Abdeckrosetten."
-          },
-          {
-            "title": "HT-Einfachabzweige",
-            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/ht-einfachabzweige/\" title=\"HT-Einfachabzweige\">HT-Einfachabzweige</a>n. Unsere HT-Einfachabzweige sind aus hochwertigen Materialien hergestellt und bieten eine zuverlässige Verbindung für Ihre Sanitärinstallation. Wir bieten eine große Auswahl an Größen und Ausführungen, um Ihren Anforderungen gerecht zu werden. Bestellen Sie noch heute Ihre HT-Einfachabzweige bei Ausscheidungsprozess.de."
-          },
-          {
-            "title": "Auslaufventile",
-            "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/auslaufventile/\" title=\"Auslaufventile\">Auslaufventile</a>n für Ihre Sanitärinstallation? Bei Ausscheidungsprozess.de finden Sie eine breite Auswahl an Auslaufventilen, die für eine langlebige und zuverlässige Leistung entwickelt wurden. Unsere Auslaufventile sind einfach zu installieren und bieten eine sichere Verbindung für Ihr Wasserversorgungssystem. Bestellen Sie noch heute Ihre Auslaufventile bei uns."
-          },
-          {
-            "title": "Druckspüler",
-            "text": "Auf der Suche nach einem hochwertigen <a href=\"/kategorie/druckspueler/\" title=\"Druckspüler\">Druckspüler</a> für Ihre Sanitärinstallation? Bei Ausscheidungsprozess.de bieten wir eine große Auswahl an Druckspülern, die für eine langlebige und zuverlässige Leistung entwickelt wurden. Unsere Druckspüler sind einfach zu installieren und bieten eine sichere Verbindung für Ihr Wasserversorgungssystem. Bestellen Sie noch heute Ihren Druckspüler bei uns."
-          },
-          {
-            "title": "WC-Druckspüler",
-            "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/wc-druckspueler/\" title=\"WC-Druckspüler\">WC-Druckspüler</a>n. Unsere Druckspüler sind hochwertig verarbeitet und garantieren eine lange Lebensdauer. Mit unseren Druckspülern sorgen Sie für eine effiziente und zuverlässige Entleerung Ihrer Toilette. Entdecken Sie jetzt die vielfältige Auswahl an WC-Druckspülern in unserem Shop."
-          },
-          {
-            "title": "HT-Ersatzringe",
-            "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/ht-ersatzringe/\" title=\"HT-Ersatzringe\">HT-Ersatzringe</a>n. Unsere HT-Ersatzringe sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. Mit unseren HT-Ersatzringen können Sie einfach und schnell defekte Dichtungen ersetzen und so für eine dauerhafte Dichtigkeit Ihrer Anlage sorgen. Entdecken Sie jetzt die vielfältige Auswahl an HT-Ersatzringen in unserem Shop."
-          },
-          {
-            "title": "HT-Muffen",
-            "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/ht-muffen/\" title=\"HT-Muffen\">HT-Muffen</a>. Unsere HT-Muffen sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. Mit unseren HT-Muffen können Sie einfach und sicher Verbindungen zwischen HT-Rohren herstellen. Entdecken Sie jetzt die vielfältige Auswahl an HT-Muffen in unserem Shop."
-          },
-          {
-            "title": "Lötfittings",
-            "text": "<a href=\"/kategorie/loetfittings/\" title=\"Lötfittings\">Lötfittings</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Diese Fittings ermöglichen es Ihnen, Rohre und Armaturen einfach und sicher miteinander zu verbinden. Unsere Lötfittings sind aus hochwertigen Materialien gefertigt und garantieren eine langlebige Verbindung. Stöbern Sie durch unser Sortiment an Lötfittings und finden Sie das passende Produkt für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "HT-Muffenstopfen",
-            "text": "<a href=\"/kategorie/ht-muffenstopfen/\" title=\"HT-Muffenstopfen\">HT-Muffenstopfen</a> sind ein unverzichtbarer Teil jeder Sanitärinstallation. Diese Stopfen sorgen für eine dichtere Verbindung und schützen vor Lecks und Schäden an Ihren Rohren und Armaturen. Bei uns finden Sie eine große Auswahl an HT-Muffenstopfen in verschiedenen Größen und Ausführungen. Alle unsere HT-Muffenstopfen sind aus hochwertigen Materialien gefertigt und garantieren eine zuverlässige Dichtung."
-          },
-          {
-            "title": "Panzer-Schläuche",
-            "text": "<a href=\"/kategorie/panzer-schlaeuche/\" title=\"Panzer-Schläuche\">Panzer-Schläuche</a> sind eine wichtige Komponente jeder Sanitärinstallation. Diese Schläuche sind robust und langlebig und bieten Schutz vor Beschädigungen und Leckagen. Unser Sortiment an Panzer-Schläuchen bietet Ihnen eine große Auswahl an verschiedenen Größen und Ausführungen. Alle unsere Panzer-Schläuche sind aus hochwertigen Materialien gefertigt und garantieren eine zuverlässige Funktion."
-          },
-          {
-            "title": "Scharnierrosetten",
-            "text": "<a href=\"/kategorie/scharnierrosetten/\" title=\"Scharnierrosetten\">Scharnierrosetten</a> sind ein wichtiger Bestandteil der Sanitärinstallation. Diese spezielle Art der Rosetten werden für den Anschluss von Armaturen wie Waschbecken, Wannen und Duschen verwendet. In unserem Online-Shop bieten wir eine breite Auswahl an Scharnierrosetten in verschiedenen Größen und Ausführungen. Alle Produkte sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige und dauerhafte Lösung für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Absperrventile",
-            "text": "<a href=\"/kategorie/absperrventile/\" title=\"Absperrventile\">Absperrventile</a> sind ein unverzichtbares Element in jeder Sanitärinstallation. Sie dienen zur Regelung und Absperrung des Wasserflusses in einem System. Unsere Absperrventile sind aus robusten Materialien gefertigt und bieten eine zuverlässige Absperrfunktion. Ob Sie ein neues Badezimmer installieren oder eine Reparatur vornehmen, in unserem Online-Shop finden Sie das passende Absperrventil für Ihre Anforderungen."
-          },
-          {
-            "title": "Durchgangsventile",
-            "text": "<a href=\"/kategorie/durchgangsventile/\" title=\"Durchgangsventile\">Durchgangsventile</a> sind eine praktische Lösung für die Verbindung von Wasserleitungen. Sie ermöglichen den schnellen und einfachen Anschluss von Geräten wie Waschmaschinen und Spülmaschinen. In unserem Online-Shop bieten wir eine breite Auswahl an Durchgangsventilen in verschiedenen Größen und Ausführungen. Alle Produkte sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige Lösung für Ihre Sanitärinstallation."
-          },
-          {
-            "title": "Heizungssysteme",
-            "text": "Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie alles, was Sie für Ihre Sanitärinstallation benötigen. Ein besonderes Augenmerk liegt auf der Kategorie <a href=\"/kategorie/heizungssysteme/\" title=\"Heizungssysteme\">Heizungssysteme</a>. Hier finden Sie eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihr Heizungssystem zu optimieren und zuverlässiger zu gestalten. Ob Sie eine neue Heizung installieren oder Ihre bestehende aufrüsten möchten, bei uns werden Sie fündig. Alle Produkte sind von hoher Qualität und langlebig, damit Sie lange Freude an Ihrem Heizungssystem haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie die passenden Heizungssysteme für Ihr Zuhause."
-          }
-        ],
-        "published": true
-      }
+    "configIsReady": true,
+    "domain": "ausscheidungsprozess.de",
+    "hostname": "https://www.ausscheidungsprozess.de/",
+    "email": "ausscheidungsprozess.de@surrealnetworks.io",
+    "organization": "ausscheidungsprozess.de",
+    "logoText": "Ausscheidungsprozess.de",
+    "title": "Sanitärinstallation",
+    "subline": "Der Online Shop für Sanitärinstallation",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7434384",
+        "7460348",
+        "6312086",
+        "5714167",
+        "5207881",
+        "2214070"
+    ],
+    "winnerProducts": [
+        "3478682",
+        "7436363",
+        "2538064"
+    ],
+    "featuredCategories": [
+        "Flexschläuche",
+        "Trockenbauelemente für WC´s",
+        "Kupferrohre",
+        "Kupferrohre",
+        "Spülrohrdichtungen",
+        "Trockenbauelemente für WC´s"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Funktionalität",
+        "Vielseitigkeit",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Sanitärinstallation",
+        "featureText": "Von der Installation von Waschbecken und Toiletten bis hin zur Reparatur von Badewannen und Duschen. Wir bieten Ihnen eine umfassende Produktreihe für die Installation jeder Art von Sanitäreinrichtungen. Ob von Spülkästen, Heizkörper bis hin zu Wasserzähler. Mit uns erhalten sie nicht nur qualitativ hochwertige Produkte, sondern auch einen fairen Preis.",
+        "index": {
+            "title": "Sanitär und Heizung - Haustechnik leicht gemacht",
+            "metaDescription": "Die Sanitärinstallation ist ein wichtiger Teil der Haustechnik. Wir sind auf die Installation von Sanitäranlage und Heizungstechnik spezialisiert.",
+            "robots": "index, follow",
+            "seotext": {
+                "publish": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Ausscheidungsprozess.de",
+                        "text": "Herzlich Willkommen auf unserer Online-Shop-Plattform für alle Bedürfnisse rund um die Sanitärinstallation. Bei uns finden Sie eine breite Auswahl an Produkten, die Ihnen bei der Gestaltung und Montage Ihrer Sanitäranlagen unterstützen. Von WC-Anschlüssen über Spülbögen bis hin zu Spülrohrverbindern - wir haben alles im Angebot, was Sie für eine erfolgreiche Sanitärinstallation benötigen. Unsere Produkte zeichnen sich durch höchste Qualität und lange Lebensdauer aus, so dass Sie lange Freude an Ihren Anlagen haben werden. Schauen Sie sich in Ruhe um und entdecken Sie unser umfassendes Angebot. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verfügung."
+                    },
+                    {
+                        "title": "WC-Anschlüsse",
+                        "text": "<a href=\"/kategorie/wc-anschluesse/\" title=\"WC-Anschlüsse\">WC-Anschlüsse</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlüssen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlüsse sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlüsse für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Spülrohrdichtungen",
+                        "text": "<a href=\"/kategorie/spuelrohrdichtungen/\" title=\"Spülrohrdichtungen\">Spülrohrdichtungen</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohrdichtungen, die Ihnen eine sichere Abdichtung Ihrer Spülrohre garantieren. Unsere Spülrohrdichtungen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohrdichtungen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Spülbögen",
+                        "text": "<a href=\"/kategorie/spuelboegen/\" title=\"Spülbögen\">Spülbögen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülbögen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere Spülbögen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülbögen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "WC-Anschlussrohre",
+                        "text": "<a href=\"/kategorie/wc-anschlussrohre/\" title=\"WC-Anschlussrohre\">WC-Anschlussrohre</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussrohren, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussrohre für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Spülrohre",
+                        "text": "<a href=\"/kategorie/spuelrohre/\" title=\"Spülrohre\">Spülrohre</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohren, die Ihnen eine sichere und dauerhafte Verbindung von Spülkasten und Abflussrohr garantieren. Unsere Spülrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohre für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "WC-Anschlussgarnituren",
+                        "text": "<a href=\"/kategorie/wc-anschlussgarnituren/\" title=\"WC-Anschlussgarnituren\">WC-Anschlussgarnituren</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussgarnituren, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussgarnituren sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussgarnituren für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "WC-Anschlussbögen",
+                        "text": "<a href=\"/kategorie/wc-anschlussboegen/\" title=\"WC-Anschlussbögen\">WC-Anschlussbögen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussbögen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussbögen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussbögen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Druckspühlrohre",
+                        "text": "<a href=\"/kategorie/druckspuehlrohre/\" title=\"Druckspühlrohre\">Druckspühlrohre</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Druckspühlrohren, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Druckspühlrohre sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Druckspühlrohre für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "WC-Anschlussstutzen",
+                        "text": "<a href=\"/kategorie/wc-anschlussstutzen/\" title=\"WC-Anschlussstutzen\">WC-Anschlussstutzen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Anschlussstutzen, die Ihnen eine sichere und dauerhafte Verbindung von WC und Abflussrohr garantieren. Unsere WC-Anschlussstutzen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Anschlussstutzen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Spülrohrverbinder",
+                        "text": "<a href=\"/kategorie/spuelrohrverbinder/\" title=\"Spülrohrverbinder\">Spülrohrverbinder</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülrohrverbindern, die Ihnen eine sichere und dauerhafte Verbindung von Spülkasten und Abflussrohr garantieren. Unsere Spülrohrverbinder sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülrohrverbinder für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Spülkästen",
+                        "text": "<a href=\"/kategorie/spuelkaesten/\" title=\"Spülkästen\">Spülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Spülkästen, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Spülkästen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Spülkästen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Aufputzspülkästen",
+                        "text": "<a href=\"/kategorie/aufputzspuelkaesten/\" title=\"Aufputzspülkästen\">Aufputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Aufputzspülkästen, die Ihnen eine sichere und zuverlässige Spülfunktion Ihrer Toiletten garantieren. Unsere Aufputzspülkästen sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Aufputzspülkästen für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Drückerplatten",
+                        "text": "<a href=\"/kategorie/drueckerplatten/\" title=\"Drückerplatten\">Drückerplatten</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Drückerplatten, die Ihnen eine sichere und zuverlässige Bedienung Ihrer Toiletten garantieren. Unsere Drückerplatten sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Drückerplatten für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "WC-Drückerplatten",
+                        "text": "<a href=\"/kategorie/wc-drueckerplatten/\" title=\"WC-Drückerplatten\">WC-Drückerplatten</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen WC-Drückerplatten, die Ihnen eine sichere und zuverlässige Bedienung Ihrer Toiletten garantieren. Unsere WC-Drückerplatten sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden WC-Drückerplatten für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Vorwandelemente",
+                        "text": "<a href=\"/kategorie/vorwandelemente/\" title=\"Vorwandelemente\">Vorwandelemente</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Vorwandelementen, die Ihnen eine sichere und zuverlässige Montage Ihrer Toiletten garantieren. Unsere Vorwandelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Vorwandelemente für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Nassbauelemente für WC´s",
+                        "text": "Nassbauelemente sind ein wichtiger Bestandteil jeder WC-Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Nassbauelementen, die Ihnen eine sichere und zuverlässige Installation Ihrer WC´s garantieren. Unsere Nassbauelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Nassbauelemente für Ihre WC-Sanitärinstallation."
+                    },
+                    {
+                        "title": "Trockenbauelemente für WC´s",
+                        "text": "Trockenbauelemente sind ein wichtiger Bestandteil jeder WC-Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Trockenbauelementen, die Ihnen eine sichere und zuverlässige Installation Ihrer WC´s garantieren. Unsere Trockenbauelemente sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Trockenbauelemente für Ihre WC-Sanitärinstallation."
+                    },
+                    {
+                        "title": "Ersatzteile für Unterputzspülkästen",
+                        "text": "<a href=\"/kategorie/ersatzteile-fuer-unterputzspuelkaesten/\" title=\"Ersatzteile für Unterputzspülkästen\">Ersatzteile für Unterputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ersatzteilen, die Ihnen eine sichere und zuverlässige Instandhaltung Ihrer Unterputzspülkästen garantieren. Unsere Ersatzteile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ersatzteile für Ihre Unterputzspülkästen."
+                    },
+                    {
+                        "title": "Ventile",
+                        "text": "<a href=\"/kategorie/ventile/\" title=\"Ventile\">Ventile</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ventilen, die Ihnen eine sichere und zuverlässige Steuerung des Wasserflusses in Ihrer Installation garantieren. Unsere Ventile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ventile für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Eckventile",
+                        "text": "<a href=\"/kategorie/eckventile/\" title=\"Eckventile\">Eckventile</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Eckventilen, die Ihnen eine sichere und zuverlässige Steuerung des Wasserflusses in Ihrer Installation garantieren. Unsere Eckventile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Eckventile für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Ersatzteile für Aufputzspülkästen",
+                        "text": "<a href=\"/kategorie/ersatzteile-fuer-aufputzspuelkaesten/\" title=\"Ersatzteile für Aufputzspülkästen\">Ersatzteile für Aufputzspülkästen</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Bei Ausscheidungsprozess.de finden Sie eine große Auswahl an hochwertigen Ersatzteilen, die Ihnen eine sichere und zuverlässige Instandhaltung Ihrer Aufputzspülkästen garantieren. Unsere Ersatzteile sind aus robusten Materialien gefertigt und entsprechen den höchsten Qualitätsstandards. Überzeugen Sie sich selbst von unserem umfassenden Angebot und wählen Sie die passenden Ersatzteile für Ihre Aufputzspülkästen."
+                    },
+                    {
+                        "title": "Zubehör & Ersatzteile",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen finden Sie eine umfangreiche Auswahl an Zubehör und Ersatzteilen. Von Armaturen bis hin zu Dichtungen und Ventilen bieten wir alles, was Sie für Ihre Sanitärinstallation benötigen. Unser Sortiment umfasst hochwertige und langlebige Produkte von renommierten Herstellern, die Ihnen eine zuverlässige und langlebige Funktionalität garantieren. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/zubehoer-ersatzteile/\" title=\"Zubehör & Ersatzteile\">Zubehör & Ersatzteile</a> und finden Sie genau das, was Sie für Ihre Sanitärinstallation benötigen."
+                    },
+                    {
+                        "title": "Trockenbauelemente für Waschbecken",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen finden Sie auch eine große Auswahl an Trockenbauelementen für Waschbecken. Von Ablaufgarnituren bis hin zu Armaturen und Waschbeckenunterschränken bieten wir alles, was Sie für Ihre Waschbeckeninstallation benötigen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige und langlebige Funktionalität. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/trockenbauelemente-fuer-waschbecken/\" title=\"Trockenbauelemente für Waschbecken\">Trockenbauelemente für Waschbecken</a> und finden Sie genau das, was Sie für Ihre Waschbeckeninstallation benötigen."
+                    },
+                    {
+                        "title": "Heizungstechnik",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir auch eine große Auswahl an <a href=\"/kategorie/heizungstechnik/\" title=\"Heizungstechnik\">Heizungstechnik</a>. Von Heizkörpern bis hin zu Regelungen und Zubehör finden Sie alles, was Sie für Ihre Heizungsanlage benötigen. Unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige und energieeffiziente Funktionalität. Stöbern Sie jetzt durch unsere Kategorie Heizungstechnik und finden Sie genau das, was Sie für Ihre Heizungsanlage benötigen."
+                    },
+                    {
+                        "title": "Heizkörper",
+                        "text": "Entdecken Sie unsere Auswahl an <a href=\"/kategorie/heizkoerper/\" title=\"Heizkörper\">Heizkörper</a>n für Ihre Sanitärinstallation. Wir bieten Ihnen eine große Auswahl an modernen und stilvollen Heizkörpern, die Ihrem Zuhause ein angenehmes Raumklima verleihen. Alle Heizkörper sind aus hochwertigen Materialien hergestellt und erfüllen die höchsten Qualitätsstandards. Besuchen Sie jetzt unseren Online-Shop und finden Sie den perfekten Heizkörper für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Heizungs-Installation",
+                        "text": "Unsere Experten stehen Ihnen bei Ihrer <a href=\"/kategorie/heizungs-installation/\" title=\"Heizungs-Installation\">Heizungs-Installation</a> zur Verfügung. Wir bieten Ihnen eine umfassende Beratung und Installation von Heizungssystemen, um sicherzustellen, dass Ihre Sanitärinstallation reibungslos funktioniert. Ob Sie eine neue Heizung installieren oder Ihre bestehende Heizung aktualisieren möchten, wir sind hier, um Ihnen zu helfen. Besuchen Sie jetzt unseren Online-Shop und lassen Sie uns Ihnen bei Ihrer Heizungs-Installation helfen."
+                    },
+                    {
+                        "title": "Wasserrohre",
+                        "text": "Wir bieten Ihnen eine breite Palette an <a href=\"/kategorie/wasserrohre/\" title=\"Wasserrohre\">Wasserrohre</a>n für Ihre Sanitärinstallation. Unsere Wasserrohre sind aus hochwertigen Materialien hergestellt und erfüllen die höchsten Qualitätsstandards. Ob Sie ein neues Wasserrohr für Ihre Waschmaschine oder Ihr Waschbecken benötigen, wir haben das passende Rohr für Sie. Besuchen Sie jetzt unseren Online-Shop und entdecken Sie unsere große Auswahl an Wasserrohren."
+                    },
+                    {
+                        "title": "Verzinkte Rohre",
+                        "text": "<a href=\"/kategorie/verzinkte-rohre/\" title=\"Verzinkte Rohre\">Verzinkte Rohre</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Diese Rohre bieten nicht nur eine lange Lebensdauer, sondern auch eine hervorragende Korrosionsbeständigkeit. Bei ausscheidungsprozess.de finden Sie eine breite Auswahl an verzinkten Rohren in verschiedenen Größen und Ausführungen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation."
+                    },
+                    {
+                        "title": "Fittings",
+                        "text": "<a href=\"/kategorie/fittings/\" title=\"Fittings\">Fittings</a> sind ein unverzichtbares Element jeder Sanitärinstallation. Bei ausscheidungsprozess.de finden Sie eine große Auswahl an Fittings in verschiedenen Ausführungen und Größen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation. Ob Sie Rohre verbinden, einen Wasseranschluss herstellen oder einen Abfluss installieren möchten, bei uns finden Sie das passende Fitting."
+                    },
+                    {
+                        "title": "Temperguss-Fittings",
+                        "text": "<a href=\"/kategorie/temperguss-fittings/\" title=\"Temperguss-Fittings\">Temperguss-Fittings</a> sind eine hervorragende Wahl für jede Sanitärinstallation. Diese Fittings zeichnen sich durch ihre hohe Stärke und Beständigkeit aus. Bei ausscheidungsprozess.de finden Sie eine breite Auswahl an Temperguss-Fittings in verschiedenen Größen und Ausführungen. Wählen Sie aus hochwertigen Produkten für Ihre nächste Sanitärinstallation."
+                    },
+                    {
+                        "title": "PPR-Rohre",
+                        "text": "<a href=\"/kategorie/ppr-rohre/\" title=\"PPR-Rohre\">PPR-Rohre</a> sind eine hervorragende Wahl für Ihre Sanitärinstallation. Diese robusten Rohre bieten eine lange Lebensdauer und eine zuverlässige Leistung. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine breite Auswahl an PPR-Rohren in verschiedenen Größen und Durchmessern. Überzeugen Sie sich selbst von den Vorteilen dieser Rohre und bestellen Sie jetzt Ihre PPR-Rohre für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Anschluss-Schläuche",
+                        "text": "Die <a href=\"/kategorie/anschluss-schlaeuche/\" title=\"Anschluss-Schläuche\">Anschluss-Schläuche</a> sind ein unverzichtbarer Bestandteil jeder Sanitärinstallation. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine große Auswahl an Anschluss-Schläuchen in verschiedenen Größen und Materialien. Ob Sie PVC-Schläuche, Gummischläuche oder Edelstahlschläuche benötigen, hier werden Sie fündig. Bestellen Sie jetzt Ihre Anschluss-Schläuche für Ihre Sanitärinstallation und profitieren Sie von hoher Qualität und Zuverlässigkeit."
+                    },
+                    {
+                        "title": "Flexschläuche",
+                        "text": "<a href=\"/kategorie/flexschlaeuche/\" title=\"Flexschläuche\">Flexschläuche</a> sind eine praktische und flexible Lösung für Ihre Sanitärinstallation. Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie eine große Auswahl an Flexschläuchen in verschiedenen Größen und Materialien. Ob Sie braune, weiße oder blaue Flexschläuche benötigen, hier werden Sie fündig. Bestellen Sie jetzt Ihre Flexschläuche für Ihre Sanitärinstallation und profitieren Sie von einer einfachen und zuverlässigen Verbindung."
+                    },
+                    {
+                        "title": "Wasserzähler",
+                        "text": "Im Bereich Sanitärinstallation sind <a href=\"/kategorie/wasserzaehler/\" title=\"Wasserzähler\">Wasserzähler</a> ein unverzichtbarer Bestandteil. In unserem Online-Shop finden Sie eine große Auswahl an Wasserzählern, die sich durch ihre hohe Funktionalität und Zuverlässigkeit auszeichnen. Unsere Produkte sind einfach zu installieren und bieten eine präzise Messung des Wasserverbrauchs. Überzeugen Sie sich selbst von unseren hochwertigen Wasserzählern!"
+                    },
+                    {
+                        "title": "Mehrschichtverbundrohre",
+                        "text": "<a href=\"/kategorie/mehrschichtverbundrohre/\" title=\"Mehrschichtverbundrohre\">Mehrschichtverbundrohre</a> sind eine zuverlässige Lösung für die Sanitärinstallation. Sie zeichnen sich durch ihre hohe Stabilität und lange Lebensdauer aus. In unserem Online-Shop finden Sie eine große Auswahl an Mehrschichtverbundrohren in verschiedenen Größen und Ausführungen. Unsere Produkte sind einfach zu verarbeiten und bieten eine hohe Dichtheit. Überzeugen Sie sich selbst von den Vorteilen unserer Mehrschichtverbundrohre!"
+                    },
+                    {
+                        "title": "Rohr-Befestigungstechnik",
+                        "text": "In der Sanitärinstallation ist eine sichere und stabile Befestigung der Rohre von großer Bedeutung. Unsere <a href=\"/kategorie/rohr-befestigungstechnik/\" title=\"Rohr-Befestigungstechnik\">Rohr-Befestigungstechnik</a> bietet eine zuverlässige und einfache Lösung. In unserem Online-Shop finden Sie eine große Auswahl an Befestigungstechnik, die sich durch ihre hohe Belastbarkeit und Stabilität auszeichnet. Überzeugen Sie sich selbst von der Qualität unserer Rohr-Befestigungstechnik!"
+                    },
+                    {
+                        "title": "Rohrschellen",
+                        "text": "Die Kategorie <a href=\"/kategorie/rohrschellen/\" title=\"Rohrschellen\">Rohrschellen</a> beinhaltet eine Vielzahl an Produkten, die für die Befestigung von Rohren in der Sanitärinstallation verwendet werden. Hier finden Sie hochwertige und langlebige Rohrschellen, die für eine sichere und stabile Montage sorgen. Ob für den Einsatz im Innen- oder Außenbereich, hier finden Sie das passende Produkt für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Schallschutzrohrschellen",
+                        "text": "Die Kategorie <a href=\"/kategorie/schallschutzrohrschellen/\" title=\"Schallschutzrohrschellen\">Schallschutzrohrschellen</a> beinhaltet spezielle Rohrschellen, die für den Einsatz in Lärmsensiblen Bereichen entwickelt wurden. Diese Rohrschellen reduzieren den Schallübertrag und sorgen somit für eine verbesserte Schalldämmung. Hier finden Sie eine große Auswahl an Schallschutzrohrschellen, die für eine einfache und effektive Montage geeignet sind."
+                    },
+                    {
+                        "title": "Kupferrohre",
+                        "text": "In der Kategorie <a href=\"/kategorie/kupferrohre/\" title=\"Kupferrohre\">Kupferrohre</a> finden Sie eine große Auswahl an hochwertigen Kupferrohren, die für eine Vielzahl an Anwendungen in der Sanitärinstallation geeignet sind. Durch ihre hohe Korrosionsbeständigkeit und lange Lebensdauer eignen sich Kupferrohre besonders für den Einsatz in der Trinkwasserinstallation. Hier finden Sie Kupferrohre in verschiedenen Größen und Längen, die für eine einfache und sichere Verlegung geeignet sind."
+                    },
+                    {
+                        "title": "HT-Rohre",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/ht-rohre/\" title=\"HT-Rohre\">HT-Rohre</a> bietet Ihnen eine breite Auswahl an hochtemperaturbeständigen Rohren für Ihre Sanitärinstallation. Die Rohre sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer und Zuverlässigkeit. Ob für Heizungen oder andere Anwendungen, wir haben das passende HT-Rohr für Sie."
+                    },
+                    {
+                        "title": "HT-Reduzierstücke",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/ht-reduzierstuecke/\" title=\"HT-Reduzierstücke\">HT-Reduzierstücke</a> finden Sie eine große Auswahl an Reduzierstücken, die für hohe Temperaturen geeignet sind. Die Stücke sind aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer und Zuverlässigkeit. Verwenden Sie sie für Heizungen oder andere Anwendungen, um Ihre Sanitärinstallation abzuschließen."
+                    },
+                    {
+                        "title": "HT-Bögen",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/ht-boegen/\" title=\"HT-Bögen\">HT-Bögen</a> finden Sie eine große Auswahl an Bögen, die für hohe Temperaturen geeignet sind. Die Bögen sind aus hochwertigen Materialien hergestellt und bieten eine lange Lebensdauer und Zuverlässigkeit. Verwenden Sie sie für Heizungen oder andere Anwendungen, um Ihre Sanitärinstallation abzuschließen."
+                    },
+                    {
+                        "title": "Wasseraufbereitung",
+                        "text": "Im Bereich der <a href=\"/kategorie/wasseraufbereitung/\" title=\"Wasseraufbereitung\">Wasseraufbereitung</a> bietet Ihnen unser Online-Shop https://www.ausscheidungsprozess.de/ eine breite Auswahl an Produkten für Ihre Sanitärinstallation. Hier finden Sie alles, was Sie benötigen, um Ihr Wasser aufzubereiten und es so für den täglichen Gebrauch geeignet zu machen. Ob Sie eine einfache Filtersysteme oder komplexere Anlagen benötigen, wir haben die passenden Produkte für Sie."
+                    },
+                    {
+                        "title": "Wasserenthärter",
+                        "text": "Eine weitere wichtige Kategorie in unserem Online-Shop https://www.ausscheidungsprozess.de/ ist die Auswahl an <a href=\"/kategorie/wasserenthaerter/\" title=\"Wasserenthärter\">Wasserenthärter</a>n. Diese Systeme sind besonders wichtig, wenn Sie in einer Gegend mit hartem Wasser wohnen. Mit einem Wasserenthärter können Sie das Wasser weicher machen und so Kalkablagerungen in Ihren Sanitärinstallationen vermeiden. Schauen Sie sich jetzt in unserem Shop um und finden Sie das perfekte Wasserenthärtersystem für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "HT-Abflussrohre",
+                        "text": "Als Teil unserer umfassenden Auswahl an Produkten für die Sanitärinstallation bieten wir Ihnen auch eine große Auswahl an <a href=\"/kategorie/ht-abflussrohre/\" title=\"HT-Abflussrohre\">HT-Abflussrohre</a>n. Diese Rohre sind besonders robust und langlebig und eignen sich perfekt für den Einsatz in industriellen Anlagen oder anderen Umgebungen mit hohen Anforderungen. Schauen Sie sich jetzt in unserem Online-Shop https://www.ausscheidungsprozess.de/ um und finden Sie das perfekte HT-Abflussrohr für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Waschgeräte-Ventile",
+                        "text": "Sie suchen nach hochwertigen <a href=\"/kategorie/waschgeraete-ventile/\" title=\"Waschgeräte-Ventile\">Waschgeräte-Ventile</a>n für Ihre Sanitärinstallation? Dann sind Sie bei ausscheidungsprozess.de genau richtig! Wir bieten Ihnen eine große Auswahl an Waschgeräte-Ventilen in verschiedenen Größen und Ausführungen. Alle unsere Produkte zeichnen sich durch ihre Langlebigkeit und ihre hohe Funktionalität aus. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Waschgeräte-Ventile bei ausscheidungsprozess.de."
+                    },
+                    {
+                        "title": "Verschraubungen",
+                        "text": "Bei der Sanitärinstallation spielen <a href=\"/kategorie/verschraubungen/\" title=\"Verschraubungen\">Verschraubungen</a> eine wichtige Rolle. Um eine dauerhafte und zuverlässige Verbindung zwischen den einzelnen Rohrteilen herzustellen, sind hochwertige Verschraubungen unerlässlich. Bei ausscheidungsprozess.de finden Sie eine große Auswahl an Verschraubungen in verschiedenen Größen und Ausführungen. Alle unsere Produkte werden aus hochwertigen Materialien hergestellt und sind langlebig und zuverlässig. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Verschraubungen bei ausscheidungsprozess.de."
+                    },
+                    {
+                        "title": "Stockschrauben",
+                        "text": "Sie benötigen für Ihre Sanitärinstallation robuste und langlebige <a href=\"/kategorie/stockschrauben/\" title=\"Stockschrauben\">Stockschrauben</a>? Dann sind Sie bei ausscheidungsprozess.de genau richtig! Wir bieten Ihnen eine große Auswahl an Stockschrauben in verschiedenen Größen und Ausführungen. Alle unsere Produkte zeichnen sich durch ihre hohe Stabilität und ihre einfache Handhabung aus. Überzeugen Sie sich selbst und bestellen Sie noch heute Ihre Stockschrauben bei ausscheidungsprozess.de."
+                    },
+                    {
+                        "title": "Waschmaschinen-Schläuche",
+                        "text": "Im Online-Shop Ausscheidungsprozess finden Sie eine breite Auswahl an <a href=\"/kategorie/waschmaschinen-schlaeuche/\" title=\"Waschmaschinen-Schläuche\">Waschmaschinen-Schläuche</a>n für Ihre Sanitärinstallation. Unsere hochwertigen Produkte sind robust und langlebig, damit Sie lange Freude an Ihrer Waschmaschine haben. Wir bieten Ihnen eine große Auswahl an unterschiedlichen Größen und Materialien, damit Sie das passende Waschmaschinenschlauch für Ihre Bedürfnisse finden. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Rosetten",
+                        "text": "In unserem Online-Shop Ausscheidungsprozess finden Sie eine große Auswahl an <a href=\"/kategorie/rosetten/\" title=\"Rosetten\">Rosetten</a> für Ihre Sanitärinstallation. Wir bieten Ihnen Rosetten in verschiedenen Größen, Materialien und Designs, damit Sie das passende Produkt für Ihre Bedürfnisse finden. Unsere Rosetten sind robust und langlebig, damit Sie lange Freude an Ihrer Sanitärinstallation haben. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Klapprosetten",
+                        "text": "In unserem Online-Shop Ausscheidungsprozess finden Sie eine breite Auswahl an <a href=\"/kategorie/klapprosetten/\" title=\"Klapprosetten\">Klapprosetten</a> für Ihre Sanitärinstallation. Unsere Klapprosetten sind robust und langlebig, damit Sie lange Freude an Ihrer Sanitärinstallation haben. Wir bieten Ihnen Klapprosetten in verschiedenen Größen, Materialien und Designs, damit Sie das passende Produkt für Ihre Bedürfnisse finden. Vertrauen Sie auf die Qualität von Ausscheidungsprozess für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Klemmfittings",
+                        "text": "<a href=\"/kategorie/klemmfittings/\" title=\"Klemmfittings\">Klemmfittings</a> sind ein wichtiger Bestandteil einer jeden Sanitärinstallation. Die hohe Qualität unserer Klemmfittings garantiert eine sichere und zuverlässige Verbindung. In unserem Online-Shop bieten wir eine breite Auswahl an Klemmfittings für jeden Bedarf und jedes Budget. Entdecken Sie jetzt unser umfangreiches Sortiment an Klemmfittings und optimieren Sie Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Gewindefittings",
+                        "text": "<a href=\"/kategorie/gewindefittings/\" title=\"Gewindefittings\">Gewindefittings</a> sind ein weiteres wichtiges Element einer jeden Sanitärinstallation. Unsere hochwertigen Gewindefittings bieten eine zuverlässige und dauerhafte Verbindung. In unserem Online-Shop finden Sie eine große Auswahl an Gewindefittings in verschiedenen Größen und Ausführungen. Überzeugen Sie sich selbst von der Qualität unserer Gewindefittings und optimieren Sie Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Abdeckrosetten",
+                        "text": "<a href=\"/kategorie/abdeckrosetten/\" title=\"Abdeckrosetten\">Abdeckrosetten</a> runden eine jede Sanitärinstallation perfekt ab. Unsere Abdeckrosetten sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. In unserem Online-Shop finden Sie eine große Auswahl an Abdeckrosetten in verschiedenen Größen und Ausführungen. Optimieren Sie Ihre Sanitärinstallation jetzt mit unseren hochwertigen Abdeckrosetten."
+                    },
+                    {
+                        "title": "HT-Einfachabzweige",
+                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/ht-einfachabzweige/\" title=\"HT-Einfachabzweige\">HT-Einfachabzweige</a>n. Unsere HT-Einfachabzweige sind aus hochwertigen Materialien hergestellt und bieten eine zuverlässige Verbindung für Ihre Sanitärinstallation. Wir bieten eine große Auswahl an Größen und Ausführungen, um Ihren Anforderungen gerecht zu werden. Bestellen Sie noch heute Ihre HT-Einfachabzweige bei Ausscheidungsprozess.de."
+                    },
+                    {
+                        "title": "Auslaufventile",
+                        "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/auslaufventile/\" title=\"Auslaufventile\">Auslaufventile</a>n für Ihre Sanitärinstallation? Bei Ausscheidungsprozess.de finden Sie eine breite Auswahl an Auslaufventilen, die für eine langlebige und zuverlässige Leistung entwickelt wurden. Unsere Auslaufventile sind einfach zu installieren und bieten eine sichere Verbindung für Ihr Wasserversorgungssystem. Bestellen Sie noch heute Ihre Auslaufventile bei uns."
+                    },
+                    {
+                        "title": "Druckspüler",
+                        "text": "Auf der Suche nach einem hochwertigen <a href=\"/kategorie/druckspueler/\" title=\"Druckspüler\">Druckspüler</a> für Ihre Sanitärinstallation? Bei Ausscheidungsprozess.de bieten wir eine große Auswahl an Druckspülern, die für eine langlebige und zuverlässige Leistung entwickelt wurden. Unsere Druckspüler sind einfach zu installieren und bieten eine sichere Verbindung für Ihr Wasserversorgungssystem. Bestellen Sie noch heute Ihren Druckspüler bei uns."
+                    },
+                    {
+                        "title": "WC-Druckspüler",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/wc-druckspueler/\" title=\"WC-Druckspüler\">WC-Druckspüler</a>n. Unsere Druckspüler sind hochwertig verarbeitet und garantieren eine lange Lebensdauer. Mit unseren Druckspülern sorgen Sie für eine effiziente und zuverlässige Entleerung Ihrer Toilette. Entdecken Sie jetzt die vielfältige Auswahl an WC-Druckspülern in unserem Shop."
+                    },
+                    {
+                        "title": "HT-Ersatzringe",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/ht-ersatzringe/\" title=\"HT-Ersatzringe\">HT-Ersatzringe</a>n. Unsere HT-Ersatzringe sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. Mit unseren HT-Ersatzringen können Sie einfach und schnell defekte Dichtungen ersetzen und so für eine dauerhafte Dichtigkeit Ihrer Anlage sorgen. Entdecken Sie jetzt die vielfältige Auswahl an HT-Ersatzringen in unserem Shop."
+                    },
+                    {
+                        "title": "HT-Muffen",
+                        "text": "In unserem Online-Shop für Sanitärinstallationen bieten wir eine große Auswahl an <a href=\"/kategorie/ht-muffen/\" title=\"HT-Muffen\">HT-Muffen</a>. Unsere HT-Muffen sind aus hochwertigen Materialien gefertigt und garantieren eine lange Lebensdauer. Mit unseren HT-Muffen können Sie einfach und sicher Verbindungen zwischen HT-Rohren herstellen. Entdecken Sie jetzt die vielfältige Auswahl an HT-Muffen in unserem Shop."
+                    },
+                    {
+                        "title": "Lötfittings",
+                        "text": "<a href=\"/kategorie/loetfittings/\" title=\"Lötfittings\">Lötfittings</a> sind ein wichtiger Bestandteil jeder Sanitärinstallation. Diese Fittings ermöglichen es Ihnen, Rohre und Armaturen einfach und sicher miteinander zu verbinden. Unsere Lötfittings sind aus hochwertigen Materialien gefertigt und garantieren eine langlebige Verbindung. Stöbern Sie durch unser Sortiment an Lötfittings und finden Sie das passende Produkt für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "HT-Muffenstopfen",
+                        "text": "<a href=\"/kategorie/ht-muffenstopfen/\" title=\"HT-Muffenstopfen\">HT-Muffenstopfen</a> sind ein unverzichtbarer Teil jeder Sanitärinstallation. Diese Stopfen sorgen für eine dichtere Verbindung und schützen vor Lecks und Schäden an Ihren Rohren und Armaturen. Bei uns finden Sie eine große Auswahl an HT-Muffenstopfen in verschiedenen Größen und Ausführungen. Alle unsere HT-Muffenstopfen sind aus hochwertigen Materialien gefertigt und garantieren eine zuverlässige Dichtung."
+                    },
+                    {
+                        "title": "Panzer-Schläuche",
+                        "text": "<a href=\"/kategorie/panzer-schlaeuche/\" title=\"Panzer-Schläuche\">Panzer-Schläuche</a> sind eine wichtige Komponente jeder Sanitärinstallation. Diese Schläuche sind robust und langlebig und bieten Schutz vor Beschädigungen und Leckagen. Unser Sortiment an Panzer-Schläuchen bietet Ihnen eine große Auswahl an verschiedenen Größen und Ausführungen. Alle unsere Panzer-Schläuche sind aus hochwertigen Materialien gefertigt und garantieren eine zuverlässige Funktion."
+                    },
+                    {
+                        "title": "Scharnierrosetten",
+                        "text": "<a href=\"/kategorie/scharnierrosetten/\" title=\"Scharnierrosetten\">Scharnierrosetten</a> sind ein wichtiger Bestandteil der Sanitärinstallation. Diese spezielle Art der Rosetten werden für den Anschluss von Armaturen wie Waschbecken, Wannen und Duschen verwendet. In unserem Online-Shop bieten wir eine breite Auswahl an Scharnierrosetten in verschiedenen Größen und Ausführungen. Alle Produkte sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige und dauerhafte Lösung für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Absperrventile",
+                        "text": "<a href=\"/kategorie/absperrventile/\" title=\"Absperrventile\">Absperrventile</a> sind ein unverzichtbares Element in jeder Sanitärinstallation. Sie dienen zur Regelung und Absperrung des Wasserflusses in einem System. Unsere Absperrventile sind aus robusten Materialien gefertigt und bieten eine zuverlässige Absperrfunktion. Ob Sie ein neues Badezimmer installieren oder eine Reparatur vornehmen, in unserem Online-Shop finden Sie das passende Absperrventil für Ihre Anforderungen."
+                    },
+                    {
+                        "title": "Durchgangsventile",
+                        "text": "<a href=\"/kategorie/durchgangsventile/\" title=\"Durchgangsventile\">Durchgangsventile</a> sind eine praktische Lösung für die Verbindung von Wasserleitungen. Sie ermöglichen den schnellen und einfachen Anschluss von Geräten wie Waschmaschinen und Spülmaschinen. In unserem Online-Shop bieten wir eine breite Auswahl an Durchgangsventilen in verschiedenen Größen und Ausführungen. Alle Produkte sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige Lösung für Ihre Sanitärinstallation."
+                    },
+                    {
+                        "title": "Heizungssysteme",
+                        "text": "Im Online-Shop https://www.ausscheidungsprozess.de/ finden Sie alles, was Sie für Ihre Sanitärinstallation benötigen. Ein besonderes Augenmerk liegt auf der Kategorie <a href=\"/kategorie/heizungssysteme/\" title=\"Heizungssysteme\">Heizungssysteme</a>. Hier finden Sie eine breite Auswahl an Produkten, die Ihnen dabei helfen, Ihr Heizungssystem zu optimieren und zuverlässiger zu gestalten. Ob Sie eine neue Heizung installieren oder Ihre bestehende aufrüsten möchten, bei uns werden Sie fündig. Alle Produkte sind von hoher Qualität und langlebig, damit Sie lange Freude an Ihrem Heizungssystem haben. Besuchen Sie jetzt unseren Online-Shop und finden Sie die passenden Heizungssysteme für Ihr Zuhause."
+                    }
+                ],
+                "published": true
+            }
+        },
+        "shop": {
+            "title": "Shop für Sanitärinstallation und Heizungstechnik",
+            "metaDescription": "Fühlen Sie sich angespannt und gestresst bei Gedanken über Ihr Sanitärproblem? Wir bieten effektive Lösungen an, um Ihnen zu helfen. Hochwertige Produkte.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Sanitärinstallation: Eine Übersicht der Hersteller",
+            "metaDescription": "Die Sanitärinstallation ist ein wichtiger Bestandteil eines jeden Bauprojekts. Hersteller wie Villeroy & Boch oder Geberit finden Sie auf unserer Seite.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Shop für Sanitärinstallation und Heizungstechnik",
-      "metaDescription": "Fühlen Sie sich angespannt und gestresst bei Gedanken über Ihr Sanitärproblem? Wir bieten effektive Lösungen an, um Ihnen zu helfen. Hochwertige Produkte.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Sanitärinstallation: Eine Übersicht der Hersteller",
-      "metaDescription": "Die Sanitärinstallation ist ein wichtiger Bestandteil eines jeden Bauprojekts. Hersteller wie Villeroy & Boch oder Geberit finden Sie auf unserer Seite.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - bequem online bestellen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Vorhaben. Top Produkte aus der Kategorie $KATEGORIE. Best-Preis-Garantie.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "3478682",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - bequem online bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Lösung für Ihr Vorhaben. Top Produkte aus der Kategorie $KATEGORIE. Best-Preis-Garantie.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Flex-Verbindungsschlauch 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm von Sonstige",
-              "text": "<p class=\"justify\">Der Flex-Verbindungsschlauch von Sonstige ist ein hochwertiges und robustes Produkt aus der Kategorie Flexschläuche. Mit seinen Abmessungen von 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm ermöglicht der Schlauch eine zuverlässige Verbindung in der Trinkwasserinstallation. Er ist knickfest und flexibel, sodass er sich direkt an die Armatur anschließen lässt, um eine sichere und dichte Verbindung zu gewährleisten.</p><p class=\"justify\">Der Flexschlauch besteht aus langlebigem Edelstahl, welcher robust und korrosionsbeständig ist. Dank seiner glatten und pflegeleichten Oberfläche sowie seiner Verchromung, besticht der Verbindungsschlauch durch eine glänzende und edle Optik. Dies macht ihn nicht nur funktional, sondern auch optisch ansprechend für den Einsatz im Bad oder bei der Sanitärinstallation.</p><p class=\"justify\">Aufgrund seiner hohen Qualität und Sicherheit eignet sich der Flex-Verbindungsschlauch besonders für die Trinkwasserinstallation und sorgt so für einwandfreies Trinkwasser in Ihrem Zuhause. Mit seiner Gesamtlänge von 100 mm passt er sich gut an verschiedene Installationssituationen an und erleichtert die Montage, selbst in beengten Platzverhältnissen.</p><p class=\"justify\">Dieser Flexschlauch ist ein ausgezeichnetes Beispiel für die hochwertigen Produkte aus dem Hause Sonstige. Wenn Sie nach einer sicheren und beständigen Lösung für Ihre Trinkwasserinstallation suchen, ist der Flex-Verbindungsschlauch 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm die optimale Wahl für Sie.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2538064",
-        "seo": {
-          "texts": [
-            {
-              "title": "NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m - Die ideale Lösung für Ihre Heizungs-Installation",
-              "text": "<p class=\"justify\">Die NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m ist eine ausgezeichnete Lösung für Ihre Heizungs-Installation im Bereich Sanitärinstallation und Heizungstechnik. Diese effiziente Rohrisolierung vom renommierten Hersteller Climatube bietet eine hervorragende Wärmedämmung und sorgt dafür, dass Ihr Heizungssystem effizient und zuverlässig arbeitet.</p><p class=\"justify\">Das Produkt zeichnet sich durch seine vorgeschlitzte Bauweise aus geschlossenzelligem Polyethylenschaum aus. Durch diese Bauweise lässt sich die Rohrisolierung einfach und schnell über die entsprechenden Rohre ziehen und fixieren. Der Durchmesser der Rohrisolierung beträgt 22mm und die Dämmdicke liegt bei 13mm. Diese Isolierung eignet sich besonders für Kaltwasserleitungen und bietet zudem einen hervorragenden Schutz vor Korrosion.</p><p class=\"justify\">Die NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m ist nicht nur eine kosteneffiziente Wahl für Ihre Heizungs-Installation, sondern auch eine langfristige Investition in die Energieeffizienz Ihres Gebäudes. Durch die hohe Dämmleistung der Rohrisolierung bleiben Wärmeverluste auf ein Minimum reduziert und tragen somit zur Senkung Ihrer Heizkosten bei.</p><p class=\"justify\">Mit über 300 positiven Bewertungen und einer durchschnittlichen Bewertung von 5 Sternen, sind Kunden von der Qualität und Leistungsfähigkeit der NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m überzeugt. Entscheiden auch Sie sich für diese hochwertige Rohrisolierung von Climatube und profitieren Sie von einer energieeffizienten und zuverlässigen Heizungs-Installation.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7436363",
-        "seo": {
-          "texts": [
-            {
-              "title": "Marley HT-Einfachabzweig 45° DN 50/50 – Qualität und Benutzerfreundlichkeit",
-              "text": "<p class=\"justify\">Der Marley HT-Einfachabzweig 45° DN 50/50 (SKU: 7436363) ist ein hochwertiges Produkt aus der Kategorie HT-Einfachabzweige, das speziell für alle Abwasseranschlüsse innerhalb eines Gebäudes geeignet ist. Diese praktische Lösung ermöglicht eine saubere und sichere Steckmontage, um Ihnen das Verlegen der Rohre so einfach wie möglich zu gestalten. Die vormontierten Lippendichtringe sorgen dafür, dass die Installation noch schneller und unkomplizierter vonstattengeht.</p><p class=\"justify\">Das HT-Einfachabzweig-Rohr von Marley entspricht den Standards von DIN EN 1451/1 und ist für heiße, kalte und aggressive Abwässer geeignet. Außerdem ist das Produkt gemäß DIN EN 476 bis zu einer Temperatur von 90 °C heißwasserbeständig. Die einfache Steckmuffen-Verbindung erlaubt eine schnelle und rationelle Verlegung der Rohre mit geringem Gefälle. Um eine optimaleVerbindung von Rohren oder Formstücken zu gewährleisten, ist die Verwendung von Gleitmittel empfohlen.</p><p class=\"justify\">Hergestellt aus schwer entflammbarem Polypropylen (PP) nach DIN 4102/B1, bietet der Marley HT-Einfachabzweig 45° DN 50/50 eine ausgezeichnete Beständigkeit und Zuverlässigkeit. Die Farbgebung in Staubgrau (RAL 7037) sorgt dafür, dass das Produkt optisch unauffällig bleibt und sich problemlos in jede Umgebung einfügt.</p><p class=\"justify\">Mit einem hervorragenden Preis-Leistungs-Verhältnis ist der Marley HT-Einfachabzweig 45° DN 50/50 eine ausgezeichnete Wahl für alle, die Qualität und Benutzerfreundlichkeit bei der Sanitärinstallation schätzen. Die hohen Bewertungen und 5-Sterne-Rezensionen von 111 zufriedenen Kunden sprechen für sich und unterstreichen das Vertrauen in dieses zuverlässige Produkt von Marley.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: Sanitärinstallationen für jeden Bedarf",
-    "defaultMetaDescription": "Sanitärinstallation mit Produkten aus der Kategorie $KATEGORIE. Modernste $KATEGORIEN sorgen für robuste und langlebige Alternativen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "3478682",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Flex-Verbindungsschlauch 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm von Sonstige",
+                            "text": "<p class=\"justify\">Der Flex-Verbindungsschlauch von Sonstige ist ein hochwertiges und robustes Produkt aus der Kategorie Flexschläuche. Mit seinen Abmessungen von 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm ermöglicht der Schlauch eine zuverlässige Verbindung in der Trinkwasserinstallation. Er ist knickfest und flexibel, sodass er sich direkt an die Armatur anschließen lässt, um eine sichere und dichte Verbindung zu gewährleisten.</p><p class=\"justify\">Der Flexschlauch besteht aus langlebigem Edelstahl, welcher robust und korrosionsbeständig ist. Dank seiner glatten und pflegeleichten Oberfläche sowie seiner Verchromung, besticht der Verbindungsschlauch durch eine glänzende und edle Optik. Dies macht ihn nicht nur funktional, sondern auch optisch ansprechend für den Einsatz im Bad oder bei der Sanitärinstallation.</p><p class=\"justify\">Aufgrund seiner hohen Qualität und Sicherheit eignet sich der Flex-Verbindungsschlauch besonders für die Trinkwasserinstallation und sorgt so für einwandfreies Trinkwasser in Ihrem Zuhause. Mit seiner Gesamtlänge von 100 mm passt er sich gut an verschiedene Installationssituationen an und erleichtert die Montage, selbst in beengten Platzverhältnissen.</p><p class=\"justify\">Dieser Flexschlauch ist ein ausgezeichnetes Beispiel für die hochwertigen Produkte aus dem Hause Sonstige. Wenn Sie nach einer sicheren und beständigen Lösung für Ihre Trinkwasserinstallation suchen, ist der Flex-Verbindungsschlauch 14,9 mm (G 3/8) x 16,7 mm (R 3/8) x 100 mm die optimale Wahl für Sie.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2538064",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m - Die ideale Lösung für Ihre Heizungs-Installation",
+                            "text": "<p class=\"justify\">Die NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m ist eine ausgezeichnete Lösung für Ihre Heizungs-Installation im Bereich Sanitärinstallation und Heizungstechnik. Diese effiziente Rohrisolierung vom renommierten Hersteller Climatube bietet eine hervorragende Wärmedämmung und sorgt dafür, dass Ihr Heizungssystem effizient und zuverlässig arbeitet.</p><p class=\"justify\">Das Produkt zeichnet sich durch seine vorgeschlitzte Bauweise aus geschlossenzelligem Polyethylenschaum aus. Durch diese Bauweise lässt sich die Rohrisolierung einfach und schnell über die entsprechenden Rohre ziehen und fixieren. Der Durchmesser der Rohrisolierung beträgt 22mm und die Dämmdicke liegt bei 13mm. Diese Isolierung eignet sich besonders für Kaltwasserleitungen und bietet zudem einen hervorragenden Schutz vor Korrosion.</p><p class=\"justify\">Die NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m ist nicht nur eine kosteneffiziente Wahl für Ihre Heizungs-Installation, sondern auch eine langfristige Investition in die Energieeffizienz Ihres Gebäudes. Durch die hohe Dämmleistung der Rohrisolierung bleiben Wärmeverluste auf ein Minimum reduziert und tragen somit zur Senkung Ihrer Heizkosten bei.</p><p class=\"justify\">Mit über 300 positiven Bewertungen und einer durchschnittlichen Bewertung von 5 Sternen, sind Kunden von der Qualität und Leistungsfähigkeit der NMC Climatube®Basic Rohrisolierung vorgeschlitzt 22-13 1m überzeugt. Entscheiden auch Sie sich für diese hochwertige Rohrisolierung von Climatube und profitieren Sie von einer energieeffizienten und zuverlässigen Heizungs-Installation.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7436363",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Marley HT-Einfachabzweig 45° DN 50/50 – Qualität und Benutzerfreundlichkeit",
+                            "text": "<p class=\"justify\">Der Marley HT-Einfachabzweig 45° DN 50/50 (SKU: 7436363) ist ein hochwertiges Produkt aus der Kategorie HT-Einfachabzweige, das speziell für alle Abwasseranschlüsse innerhalb eines Gebäudes geeignet ist. Diese praktische Lösung ermöglicht eine saubere und sichere Steckmontage, um Ihnen das Verlegen der Rohre so einfach wie möglich zu gestalten. Die vormontierten Lippendichtringe sorgen dafür, dass die Installation noch schneller und unkomplizierter vonstattengeht.</p><p class=\"justify\">Das HT-Einfachabzweig-Rohr von Marley entspricht den Standards von DIN EN 1451/1 und ist für heiße, kalte und aggressive Abwässer geeignet. Außerdem ist das Produkt gemäß DIN EN 476 bis zu einer Temperatur von 90 °C heißwasserbeständig. Die einfache Steckmuffen-Verbindung erlaubt eine schnelle und rationelle Verlegung der Rohre mit geringem Gefälle. Um eine optimaleVerbindung von Rohren oder Formstücken zu gewährleisten, ist die Verwendung von Gleitmittel empfohlen.</p><p class=\"justify\">Hergestellt aus schwer entflammbarem Polypropylen (PP) nach DIN 4102/B1, bietet der Marley HT-Einfachabzweig 45° DN 50/50 eine ausgezeichnete Beständigkeit und Zuverlässigkeit. Die Farbgebung in Staubgrau (RAL 7037) sorgt dafür, dass das Produkt optisch unauffällig bleibt und sich problemlos in jede Umgebung einfügt.</p><p class=\"justify\">Mit einem hervorragenden Preis-Leistungs-Verhältnis ist der Marley HT-Einfachabzweig 45° DN 50/50 eine ausgezeichnete Wahl für alle, die Qualität und Benutzerfreundlichkeit bei der Sanitärinstallation schätzen. Die hohen Bewertungen und 5-Sterne-Rezensionen von 111 zufriedenen Kunden sprechen für sich und unterstreichen das Vertrauen in dieses zuverlässige Produkt von Marley.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: Sanitärinstallationen für jeden Bedarf",
+        "defaultMetaDescription": "Sanitärinstallation mit Produkten aus der Kategorie $KATEGORIE. Modernste $KATEGORIEN sorgen für robuste und langlebige Alternativen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Günstige und hochwertige Produkte vom Hersteller $HERSTELLER",
+        "defaultMetaDescription": "Suchen Sie nicht weiter nach einem zuverlässigen und professionellen Produkten. Wir bieten Ihnen hochwertige Materialien von dem Hersteller $HERSTELLER.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Sanitärinstallation",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Sanitärinstallation Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Sanitärinstallation Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Günstige und hochwertige Produkte vom Hersteller $HERSTELLER",
-    "defaultMetaDescription": "Suchen Sie nicht weiter nach einem zuverlässigen und professionellen Produkten. Wir bieten Ihnen hochwertige Materialien von dem Hersteller $HERSTELLER.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Sanitärinstallation",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Sanitärinstallation Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Sanitärinstallation Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
